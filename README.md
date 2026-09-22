@@ -1,4 +1,4 @@
-# WinNTMU_Packs-EliteSoftware Repo Readme
+# WinNTMU (Windows NT Modding Utility) Packs | EliteSoftware Edition
 
 Packs Made / Modified by EliteSoftware Tech Co.
 
@@ -17,3 +17,7 @@ You can get packs at:
 You can learn the pack format specification at 
 
 ## [NTMU Official Wiki](https://github.com/get-ntmu/NTMU/wiki).
+
+## [EliteSoftware NTMU Fork]
+
+## [WinNTMU EliteSoftware Fork Repo](https://github.com/TheShadyRainbow4/Windows_NT_Modding_Utility-FORK).
