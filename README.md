@@ -1,21 +1,13 @@
-# WinVista_UAC-Concent_Teal-ing_Hack_NTMU-Pack
+# WinNTMU_Packs-EliteSoftware Repo Readme
 
-RESOURCES: Aubymoriubymori (THE LEDGEND)
+Packs Made / Modified by EliteSoftware Tech Co.
 
-Authors: Travis (Travy-Patty), ImSwordQueen, EliteSoftware Tech Co. {Zach}
+## Get packs
 
-Target OS: Windows 10 1703+ (As previous versions natively had this dialog still).
+You can get packs at: 
+[NTMU Dedicated Site](https://get-ntmu.github.io/#!/packs).
+[EliteSoftware Packs Repo](https://github.com/TheShadyRainbow4/WinNTMU_Packs-EliteSoftware).
 
-Languages: en-US (US English) only. {Unless you want to translate? its only one file "AuthUAC.dll.mui"}
+## Create packs
 
------------------------
-
-DESCRIPTION: Classic UserAccountControl DirectUI Concent Dialogs v2.0.1.2
- NTMU pack restores the GLORIOUS classic DirectUI User Account Control Concent Prompt Dialog User Interface!
- 
- -----------------------
- 
-Notes: 
-The Vista Teal version is a custom fork of the Consent Dialog that replaces the Grey banner version with the teal so ALL trusted signed Binaries show teal banner not just Microsoft Windows signed ones.. 
-
-*This Also Overwrites Shell32.dll.mun in SystemResources* This will replace all your ui Icons and the up directory arrow in Explorer with Vista Icons
+You can learn the pack format specification at [the wiki](https://github.com/get-ntmu/NTMU/wiki).
