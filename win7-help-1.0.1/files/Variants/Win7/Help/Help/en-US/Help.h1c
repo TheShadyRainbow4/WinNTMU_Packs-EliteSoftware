@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE HelpCollection>
+<HelpCollection DTDVersion="1.0" LangId="1033" Title="Windows OS Combined Collection">
+	<TOCDef File="help.H1T"/>
+	<KeywordIndexDef File="help_assetid.H1K"/>
+	<KeywordIndexDef File="help_subjectterm.H1K"/>
+	<KeywordIndexDef File="help_bestbet.H1K"/>
+	<KeywordIndexDef File="help_linkterm.H1K"/>
+	<ItemMoniker Name ="!DataSource" ProgId="HxDs.HxDataSource" InitData =""/>
+	<ItemMoniker Name="!DefaultToc" ProgId="HxDs.HxHierarchy" InitData="AnyString"/>
+	<ItemMoniker Name="!DefaultFullTextSearch" ProgId="HxDs.HxFullTextSearch" InitData=";!DefaultBestBetIndex"/>
+	<ItemMoniker Name="!DefaultAssetIdIndex" ProgId="HxDs.HxIndex" InitData="AssetId"/>
+	<ItemMoniker Name="!DefaultKeywordIndex" ProgId="HxDs.HxIndex" InitData="SubjectTerm"/>
+	<ItemMoniker Name="!DefaultAssociativeIndex" ProgId="HxDs.HxIndex" InitData="LinkTerm"/>
+	<ItemMoniker Name="!DefaultBestBetIndex" ProgId="HxDs.HxIndex" InitData="BestBet"/>
+</HelpCollection>
