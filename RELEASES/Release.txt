@@ -1,0 +1,25 @@
+EliteSoftware__ClassicUAC_2.0.1.2
+Restores your choice of 4 UAC Consent Dialog Variations (Windows 8/10 RTM, Windows 7, Windows Vista, & Windows Vista but Modified so that Microsoft and Non-Microsoft Signed Binaries show the Teal Banner instead of Grey Banner for non Microsoft ones (The Non-Microsoft ones still use the Yellow Shield icon in banner instead of standard UAC Shield used in the Microsoft Signed prompt)
+
+EliteSoftware__Legacy_UtilityManager-UTILMAN_V2
+Restores Legacy UTILMAN.exe from Windows 7/Vista
+
+EliteSoftware__SnippingTool-SnipToolDelay_v2
+Restores 2 different versions of the snipping tool at the same time (Windows 7 & Windows 10 RTM w/ Delay Button)
+
+EliteSoftware__VistaPremier-Branding-2.6.3.54
+Restores Windows Vista Branding for Windows 10+ (Welcome screen, ctrl-alt-del screen, and winver banners)
+
+EliteSoftware__Windows_Vista_GamesExplorer-2.1.6.3
+Restores the Windows Games Explorer (With the Vista Iconography)
+
+EliteSoftware__WindowsVista-Help-2.1.3.5
+Restores Windows 7 & Windows Vista Help and Support for Windows 8+ (En-US Only), including extra help content in the Vista variation
+
+EliteSoftware__WinVista-WMP-11_2.0.0
+Restores Windows Media Player 11
+
+Vista-DVD_Maker-2.1.4.6
+Allows you to run the Windows Vista DVD Maker / Movie Maker on modern Windows (Windows 8+)
+
+All are working on Windows 10 (Tested on IOT Enterprise LTSC 2021 UNTESTED ON WINDOWS 11, BUT MIGHT STILL WORK WMP11 does work on 11 and so does Utilman.exe and SnippingTool Classic UAC Dialogs probably will not though! Use at own risk!)
