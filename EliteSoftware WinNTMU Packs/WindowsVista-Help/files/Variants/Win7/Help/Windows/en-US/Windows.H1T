@@ -1,0 +1,1547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE HelpTOC>
+<HelpTOC DTDVersion="1.0" Id="[Enterprise]" FileVersion="" LangId="" ParentNodeIcon="Book" PluginStyle="Hierarchical" Culture="en" xmlns="http://schemas.microsoft.com/help/toc/2004/11">
+    <HelpTOCNode Url="mshelp://windows/?tocid=2a351560-42ce-477a-9d6c-7ce6f800b03c" Title="">
+        <HelpTOCNode Url="mshelp://windows/?tocid=adb4cf4d-1838-4adb-a035-dbdce93c97c4" Title="Getting started">
+            <HelpTOCNode Url="mshelp://windows/?id=d8d3fd25-0bc0-43c7-80c3-3dcec8e3d24d" Title="What's new in Windows 7" />
+            <HelpTOCNode Url="mshelp://windows/?id=bc1adb60-9e03-46ab-9fcf-843151ff2d55" Title="Find which edition of Windows 7 you are using" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=459a08d9-4a30-4a37-baac-3e76322e771d" Title="Windows Basics">
+                <HelpTOCNode Url="mshelp://windows/?id=f8392c5b-a46d-4b0b-bcd8-eb0ef0fd0940" Title="Windows Basics: all topics" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=1d59e3e0-05f2-4ac7-a918-9e9be4dc79de" Title="Learn about your computer">
+                    <HelpTOCNode Url="mshelp://windows/?id=ef0ebe45-7b6d-42bf-a40d-6e83359c1144" Title="Introduction to computers" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a4323a8c-0670-4ef7-a540-284f63da221f" Title="How do I get started with my computer?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b7bf360d-67e7-4bad-976d-7623e6deb6dd" Title="Parts of a computer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e725b43f-94e4-4410-98e7-cc87ab2739aa" Title="Using your mouse" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d33de1a1-42db-420c-8579-5299b82ccddd" Title="Using your keyboard" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6e68c6a2-8de9-4a89-831a-109b3d3fff91" Title="Turning off your computer properly" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=ccb81abc-3ddb-46c4-98bd-c1a2bfaf63ef" Title="Desktop fundamentals in Windows">
+                    <HelpTOCNode Url="mshelp://windows/?id=038542e7-db5e-4331-b2fb-cfc3f0afa0b2" Title="The desktop (overview)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=45a1b648-87a8-4e1a-86ab-1becc2a58144" Title="The taskbar (overview)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e5ab641b-e34f-49a8-9ecd-6fd43a8dc89a" Title="The Start menu (overview)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=88e2f098-c570-4b36-959a-3c449dee43ab" Title="Desktop gadgets (overview)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=aea66e2a-f165-4a8b-aa00-8748e7538984" Title="Working with windows" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d031e17d-59aa-4862-9280-74a17bbb5d9c" Title="Working with Control Panel" />
+                    <HelpTOCNode Url="mshelp://windows/?id=26c52250-8b83-4f97-95a8-cdc0924abd58" Title="Using menus, buttons, bars, and boxes" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=339c7753-bcca-4506-bbf0-3748969067b0" Title="Programs, files, and folders">
+                    <HelpTOCNode Url="mshelp://windows/?id=519656e8-f966-42d1-81eb-c89768f46c99" Title="Using programs" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b8f62a7d-381a-4253-a52e-04883e076bbe" Title="Working with files and folders" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5de64f64-78e6-4f70-b252-78455d076288" Title="Getting started with printing" />
+                    <HelpTOCNode Url="mshelp://windows/?id=f5feb1df-8dd7-4ab0-9f65-3c1c89a329ab" Title="Getting started with Paint" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7479c387-8dc4-40b6-9506-cc7a58c61f0a" Title="Using WordPad" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=a580153a-7a3b-4dc0-bf1e-e5b11b5a7fa9" Title="Internet, e-mail, and networking">
+                    <HelpTOCNode Url="mshelp://windows/?id=645b0e95-2985-484c-b819-4331ba14b68b" Title="Getting started with e-mail" />
+                    <HelpTOCNode Url="mshelp://windows/?id=ca76d240-91d8-457d-a5e0-3d91018f61a7" Title="What do I need to connect to the Internet?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c6cf4f16-8427-44ef-8457-18b963296b72" Title="Connect to the Internet" />
+                    <HelpTOCNode Url="mshelp://windows/?id=cfd5d891-a474-48f8-8ab9-46cfb0c57dc6" Title="What is an Internet Service Provider (ISP)?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=26ce0593-f146-454e-92a2-5fe1107da4b0" Title="Managing your contacts" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e0cbb93e-53f3-4776-8e3b-05791245987f" Title="Understanding security and safe computing" />
+                    <HelpTOCNode Url="mshelp://windows/?id=76174f4a-7522-425a-9424-324dd299265e" Title="Setting up a home network" />
+                    <HelpTOCNode Url="mshelp://windows/?id=297fa2dc-b20b-4327-b673-707a968c8680" Title="Setting up a wireless network" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=5d741107-0f71-45e8-badb-f42109e56328" Title="Pictures and games">
+                    <HelpTOCNode Url="mshelp://windows/?id=924a1b6f-6202-487c-a59b-f7130ce774a4" Title="Working with digital pictures" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a0061a8f-0c03-4520-812c-7ab16389c95a" Title="Learn about Windows games" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=931d50d0-356a-4a61-8c64-9aeeb52b1a61" Title="Help and support">
+                    <HelpTOCNode Url="mshelp://windows/?id=710dcbcc-da2c-482b-9de5-cc15225565e6" Title="Getting help (overview)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c296174e-c39b-4d56-b638-57d8557b68b3" Title="What accessibility features does Windows offer?" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=b4743e5e-c522-4832-932b-92a1fb8e8d92" Title="Installing and activating Windows">
+                <HelpTOCNode Url="mshelp://windows/?id=5014f7f1-6504-477f-81fd-dc0df2f6452a" Title="What is the Windows Certificate of Authenticity?" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=d00c5979-7441-4302-87cb-4e97332a4a7d" Title="Installing Windows">
+                    <HelpTOCNode Url="mshelp://windows/?id=e77344fa-e978-464c-953e-eba44f052267" Title="Installing and reinstalling Windows" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8e56385e-e25d-4beb-8de5-eaac404a01b0" Title="Installing Windows: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d9561cd3-791a-4aed-9b1c-0544016e960d" Title="Windows installation problems: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d95a0730-91af-4d46-8800-583531946be4" Title="Start Windows from a CD or DVD" />
+                    <HelpTOCNode Url="mshelp://windows/?id=3d20e451-a27a-4546-9b49-d1bbdbd723f3" Title="Can I have more than one operating system on my computer (multiboot)?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8572be9b-8580-49f7-9719-b3a4c42749fe" Title="Install more than one operating system (multiboot)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=2ca4f65f-a63d-4a73-9d35-15b32d6cdc32" Title="What is a boot disk (startup disk) and why would I need one?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=52163f53-ddaa-41c0-ab74-57f3966548e1" Title="Installing Windows: recommended links" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=1a1c4d76-83b5-41cb-9e96-fb7c3fdc5665" Title="Activating Windows">
+                    <HelpTOCNode Url="mshelp://windows/?id=4c0a49ef-9ac8-4acc-93b0-080dacda8ea1" Title="What is activation?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=62088be6-3538-46a6-99fb-05e74aeb48b5" Title="Activating Windows: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b822d704-2147-4939-aa6a-c7f3ded3ca24" Title="Activate Windows on this computer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c38f2f8f-22d1-41ce-9839-76e2d57acd9e" Title="Where do I find my Windows product key?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=9c65a629-f21c-4dd2-b370-6c1ae9616566" Title="Get a new Windows product key" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6f58b1c8-e296-4498-8454-99558fde70bf" Title="What is genuine Windows?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5014f7f1-6504-477f-81fd-dc0df2f6452a" Title="What is the Windows Certificate of Authenticity?" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=24440603-4fe5-4848-914a-b044ad554dda" Title="Transferring files and settings">
+                <HelpTOCNode Url="mshelp://windows/?id=9e2347fc-43af-4ff9-8e33-0002b9d44956" Title="Transfer files and settings from another computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=96d5d811-6d52-4dff-b39b-76c64a131dfe" Title="Transferring files and settings: frequently asked questions" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=b734dd45-8b97-453e-b2cd-8aca403913fb" Title="Starting up Windows">
+                <HelpTOCNode Url="mshelp://windows/?id=445d16ec-5825-44b1-9bb0-98059482aada" Title="Starting up Windows: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=b992aa5c-61cf-4ad5-a3a1-f4def9976cba" Title="Diagnostic tools to use in safe mode" />
+                <HelpTOCNode Url="mshelp://windows/?id=5c59f8c1-b0d1-4f1a-af55-74f3922f3f35" Title="Startup Repair: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=92fc21e5-3b29-4b09-aa11-33478ae17276" Title="Change the default operating system for startup (multiboot)" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=c2334ccd-059a-4480-a9a6-3036fbd0e5fd" Title="Shutting down">
+                <HelpTOCNode Url="mshelp://windows/?id=6e68c6a2-8de9-4a89-831a-109b3d3fff91" Title="Turning off your computer properly" />
+                <HelpTOCNode Url="mshelp://windows/?id=335c6a5d-0304-4af1-b135-6bf6c124dc11" Title="Turn off a computer: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=864b03b0-1f2e-42ce-b155-c9b280ea3385" Title="Why won't my computer turn on or off quickly?" />
+                <HelpTOCNode Url="mshelp://windows/?id=1f5e24e2-3734-4c69-8e5e-b9988b8b2b19" Title="Sleep and hibernation: frequently asked questions" />
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=525b3593-e643-443a-b183-88e9d7deb5d6" Title="Security and privacy">
+            <HelpTOCNode Url="mshelp://windows/?id=e0cbb93e-53f3-4776-8e3b-05791245987f" Title="Understanding security and safe computing" />
+            <HelpTOCNode Url="mshelp://windows/?id=d12ca5ea-b0af-438d-977e-7443c9a39c96" Title="Windows security: recommended links" />
+            <HelpTOCNode Url="mshelp://windows/?id=8f259118-0d61-4c7a-8c56-24987e87a817" Title="Install Windows updates" />
+            <HelpTOCNode Url="mshelp://windows/?id=716aa5da-78a5-4016-9006-4dc5f9fe6824" Title="Updating your computer" />
+            <HelpTOCNode Url="mshelp://windows/?id=8ee4f673-5b5c-4de7-a2df-ed0b3d2d5469" Title="Get security updates for Windows" />
+            <HelpTOCNode Url="mshelp://windows/?id=4dbd2b96-73f1-429d-876f-fb0c6cfc5201" Title="What happened to Windows Security Center?" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=42a7c6c6-b192-451d-bfae-64c03dd879bc" Title="Action Center">
+                <HelpTOCNode Url="mshelp://windows/?id=bbeaaca4-c6ae-47f8-8f2f-03deadf80271" Title="What is Action Center?" />
+                <HelpTOCNode Url="mshelp://windows/?id=91558e3c-22f9-42dd-a132-f51482063c98" Title="How does Action Center check for problems?" />
+                <HelpTOCNode Url="mshelp://windows/?id=4ce07073-a6ab-48b7-a4bd-ec65aee47497" Title="Why do some solutions or problem reports stop showing up in Action Center?" />
+                <HelpTOCNode Url="mshelp://windows/?id=69b8f64e-e74a-4021-ac44-8d94ebedb291" Title="Use a firewall that Windows doesn't find" />
+                <HelpTOCNode Url="mshelp://windows/?id=cd85fb7b-2784-40a6-9feb-5676ac879ed3" Title="Use antivirus software that Windows doesn't find" />
+                <HelpTOCNode Url="mshelp://windows/?id=088b9f36-22dd-434e-82ec-d00b78e81e49" Title="Update your antivirus software" />
+                <HelpTOCNode Url="mshelp://windows/?id=51206574-19e0-455d-bd7a-4dbfaebfa988" Title="Using anti-malware software to help protect your computer" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=0e0a66e3-23ec-4f81-9069-373b6cfdb7b3" Title="Windows Firewall">
+                <HelpTOCNode Url="mshelp://windows/?tocid=5c880a34-8766-42e6-a2d5-ab9318bcff8b" Title="Understanding Windows Firewall">
+                    <HelpTOCNode Url="mshelp://windows/?id=4673a386-2e73-4b7a-a333-6f826a3d44b4" Title="What is a firewall?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=05eee553-6a90-456a-b9e5-fcb423390543" Title="Windows Firewall: recommended links" />
+                    <HelpTOCNode Url="mshelp://windows/?id=2140d623-08b5-4356-bb9a-4438a04296ce" Title="Firewall: frequently asked questions" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=fee757d1-a659-4606-9b6c-9327a554ab49" Title="Using Windows Firewall">
+                    <HelpTOCNode Url="mshelp://windows/?id=bfe523a9-7eec-4d3f-add1-2f68b9cfa1c0" Title="Turn Windows Firewall on or off" />
+                    <HelpTOCNode Url="mshelp://windows/?id=f12788e4-8405-4cc2-b363-b76b71b01a20" Title="What are the risks of allowing programs through a firewall?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=32f3845b-eda0-4168-be8d-90f07250d810" Title="Enable or disable network discovery" />
+                    <HelpTOCNode Url="mshelp://windows/?id=4da18300-9044-47b6-9038-595c78db81ab" Title="Open a port in Windows Firewall" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d1d9dca9-7fef-47a0-ab40-39c634a4c432" Title="Restore Windows Firewall settings" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=67451e9b-ee7e-4ad7-a4e0-f3ecae5f00d0" Title="Helping to protect your computer from viruses">
+                <HelpTOCNode Url="mshelp://windows/?id=1154af45-f28e-4de4-949d-bc5fa8d204a8" Title="How can I help protect my computer from viruses?" />
+                <HelpTOCNode Url="mshelp://windows/?id=31645183-962a-45b6-a121-f95e26c510bd" Title="How can I tell if my computer has a virus?" />
+                <HelpTOCNode Url="mshelp://windows/?id=5c08774a-6602-490d-ba33-faed5c893991" Title="How do I remove a computer virus?" />
+                <HelpTOCNode Url="mshelp://windows/?id=298235da-e8c9-43be-b42c-9278c6de25c2" Title="Viruses: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=088b9f36-22dd-434e-82ec-d00b78e81e49" Title="Update your antivirus software" />
+                <HelpTOCNode Url="mshelp://windows/?id=cd85fb7b-2784-40a6-9feb-5676ac879ed3" Title="Use antivirus software that Windows doesn't find" />
+                <HelpTOCNode Url="mshelp://windows/?id=f3c457f8-e1bf-4cc7-989e-742558e0f477" Title="Disable antivirus software" />
+                <HelpTOCNode Url="mshelp://windows/?id=80062dee-6203-42f8-b898-cfb79bde9889" Title="What is Data Execution Prevention?" />
+                <HelpTOCNode Url="mshelp://windows/?id=186de3d0-01af-4d4c-981d-674637d2f4bf" Title="Data Execution Prevention: frequently asked questions" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=0cbb04c4-52f1-4c66-ae23-176bf962202c" Title="Helping to protect your computer against phishing">
+                <HelpTOCNode Url="mshelp://windows/?id=cee1b442-c962-44b1-81e5-2a20e97de454" Title="What is phishing?" />
+                <HelpTOCNode Url="mshelp://windows/?id=a9344397-aea3-41e9-896f-518709345309" Title="What happened to Phishing Filter?" />
+                <HelpTOCNode Url="mshelp://windows/?id=925e9035-18dd-4adf-9dc3-59df959ae046" Title="How does SmartScreen Filter help protect my computer from malicious or phishing websites?" />
+                <HelpTOCNode Url="mshelp://windows/?id=184c6038-7eb1-4ca3-b50d-7901d81c3785" Title="SmartScreen Filter: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=e1da77ca-1534-463d-b01f-2f1111cd9aa7" Title="SmartScreen Filter: Information for administrators and website owners" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=be27be63-44ba-42f1-a416-1d1f826fd696" Title="Helping to protect your computer against spyware and other malware">
+                <HelpTOCNode Url="mshelp://windows/?id=84d299ce-216c-4473-aa62-374c52455007" Title="Spyware: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=cfcec887-20ad-4602-a7a5-306298640dbc" Title="How to tell if your computer is infected with spyware" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=c3c9b201-a209-495f-92ff-2c46c0f09c5e" Title="Using Windows Defender">
+                    <HelpTOCNode Url="mshelp://windows/?id=4ef8da25-133e-4947-99c1-5c7951d48a15" Title="Using Windows Defender" />
+                    <HelpTOCNode Url="mshelp://windows/?id=85aba529-d717-49e9-ba01-cf892cdfff2e" Title="Scan for spyware and other potentially unwanted software" />
+                    <HelpTOCNode Url="mshelp://windows/?id=af5fed9f-994f-41eb-8ae0-98cce36a110f" Title="Remove spyware from your computer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=329da9be-1e0e-40f5-b6f5-f58617ec1839" Title="Schedule when Windows Defender scans your computer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7f6dcd70-ad5e-4224-962d-737abdecab5e" Title="Keep Windows Defender definitions up to date" />
+                    <HelpTOCNode Url="mshelp://windows/?id=074f84cf-d303-4f62-ad3c-a1fb6434ae49" Title="Report suspicious software to Microsoft SpyNet" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b15d099f-68f5-4512-8bd2-68dd0dc9875e" Title="Join the Microsoft SpyNet community" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c06434c0-b552-4584-8bcf-dfc7e2b5cefc" Title="View or clear the history in Windows Defender" />
+                    <HelpTOCNode Url="mshelp://windows/?id=3394e8a6-5416-4b89-91da-db7e9d1a7e3a" Title="View the progress of a Windows Defender scan" />
+                    <HelpTOCNode Url="mshelp://windows/?id=09038554-ea5f-4db7-bba3-97a67ea29367" Title="Remove or restore items quarantined by Windows Defender" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5d42c151-d187-4eb5-a4a3-8cf163e1b78d" Title="Add or remove items from the Windows Defender allowed list" />
+                    <HelpTOCNode Url="mshelp://windows/?id=13f74d76-344a-4dcc-9284-7ab43d9171b2" Title="Turn Windows Defender real-time protection on or off" />
+                    <HelpTOCNode Url="mshelp://windows/?id=31d797aa-091d-4d67-a556-dbfaf21bf0dc" Title="Turn Windows Defender on or off" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8b8917f4-88c7-4470-88ae-0a06987c20fd" Title="Understanding Windows Defender real-time protection" />
+                    <HelpTOCNode Url="mshelp://windows/?id=4c99fa18-7f2c-49d6-ba38-cac2d1e620af" Title="Understanding Windows Defender alert levels" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=665d976b-2aa9-46f7-bf7b-8ad65d9c17b1" Title="Parental controls (not available on a domain)">
+                <HelpTOCNode Url="mshelp://windows/?id=d572613a-f6ed-4164-ac39-02b470acef3e" Title="What can I control with Parental Controls?" />
+                <HelpTOCNode Url="mshelp://windows/?id=585539d0-0862-41e4-9b39-53467648efc5" Title="Set up Parental Controls" />
+                <HelpTOCNode Url="mshelp://windows/?id=5dbca3cd-0d67-4a90-9e81-386d4f9d1614" Title="Specify which games children can play" />
+                <HelpTOCNode Url="mshelp://windows/?id=8b715e12-0c48-4aaa-9288-56c4094f5620" Title="Control when children can use the computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=7770e3a3-1cb4-492c-897a-e76b79594f32" Title="Prevent children from using specific programs" />
+                <HelpTOCNode Url="mshelp://windows/?id=010ab585-5db2-4db7-abe2-7282250ce51b" Title="Change the ratings system used to control games" />
+                <HelpTOCNode Url="mshelp://windows/?id=a7753a54-6d29-4b41-a10d-b5c12c480646" Title="How to tell if games are appropriate for children" />
+                <HelpTOCNode Url="mshelp://windows/?id=5a2aed22-08e3-42ad-95e3-c81bfaefdf85" Title="Game ratings and content descriptors: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=ea6626c2-27fe-471a-9978-488932fd934a" Title="How can I add additional parental controls?" />
+                <HelpTOCNode Url="mshelp://windows/?id=602e88e9-47a5-4cb5-ae15-470b7608e48f" Title="What happened to the Parental Controls web filter and activity reports?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=8758cc9c-42db-430b-b258-1c7167f36cbc" Title="Controlling access to your computer">
+                <HelpTOCNode Url="mshelp://windows/?tocid=7cb01ead-5b44-48ba-9e3f-92246cc9a089" Title="User accounts and settings">
+                    <HelpTOCNode Url="mshelp://windows/?id=923239dd-f050-4e2e-a58d-89b073932026" Title="Find your computer name" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d41efb5b-10db-42ba-85b8-6a5bef7fae31" Title="Change your computer name" />
+                    <HelpTOCNode Url="mshelp://windows/?tocid=bb34bfd5-d80b-42bb-89f2-f052e301a207" Title="Understanding accounts in Windows">
+                        <HelpTOCNode Url="mshelp://windows/?id=52616bc5-3efb-4b70-af71-1b3c9db14370" Title="User accounts: recommended links" />
+                        <HelpTOCNode Url="mshelp://windows/?id=94331d67-0f0e-478a-99f0-114e8451d06b" Title="User accounts: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=5d82b9b6-0a55-4199-b5d1-5b25b6b106cb" Title="What is a user account?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=68a1c4fd-b3f6-4cb9-93a1-8a6023836e53" Title="Create a user account" />
+                        <HelpTOCNode Url="mshelp://windows/?id=3121bca7-f60c-4110-8f0d-6b4fa2c26e12" Title="Delete a user account" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e4af655f-2497-488b-b70c-20886004419c" Title="How do I log on as an administrator?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=1f7c4b37-eb7a-47e2-8c94-70e162d14a45" Title="Why use a standard user account instead of an administrator account?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=9ec3db7b-862d-4e24-82a9-99c9a74c7542" Title="User groups in Windows" />
+                        <HelpTOCNode Url="mshelp://windows/?id=bc699039-1468-474c-b514-aa3ca34508db" Title="What are user profiles?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=34cdee3d-cfe2-4481-80b2-45efb7c09a52" Title="What happened to the Power Users group?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=40be7059-1abb-466d-8deb-63106ee55e2b" Title="Choose a picture for your user account and Start menu" />
+                        <HelpTOCNode Url="mshelp://windows/?id=9643b4f4-b9e2-47ce-99b4-ee15c1389747" Title="What is the Welcome screen?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=ca607790-adf6-41a7-abd8-0a1f2feb70b1" Title="Why won't Windows allow me to change a system setting?" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=9377d7ac-31c6-485a-af02-b0aaf24b9a53" Title="Changing user account settings">
+                        <HelpTOCNode Url="mshelp://windows/?id=74603287-0ee9-4470-9a4e-3d791f95f4c6" Title="Change a user's account type" />
+                        <HelpTOCNode Url="mshelp://windows/?id=40be7059-1abb-466d-8deb-63106ee55e2b" Title="Choose a picture for your user account and Start menu" />
+                        <HelpTOCNode Url="mshelp://windows/?id=0faddcfc-e2a9-4297-a429-3f7e83fe6e36" Title="Add a user account to a group" />
+                        <HelpTOCNode Url="mshelp://windows/?id=bfd7929e-6f19-409a-9505-9c9a1f3243eb" Title="Turn the guest account on or off" />
+                        <HelpTOCNode Url="mshelp://windows/?id=d7dd7b8f-7b33-4a6f-9ec0-3a7fb795913a" Title="Disable a user account" />
+                        <HelpTOCNode Url="mshelp://windows/?id=291d85d1-174d-46fd-9bad-618f21abe934" Title="Rename a user account" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e75ad60a-b6d9-49a5-8eef-31ba18b0921c" Title="Apply regional and language settings to reserved accounts" />
+                        <HelpTOCNode Url="mshelp://windows/?id=769495bf-035c-4764-a538-c9b05c22001e" Title="Fix a corrupted user profile" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=02f13674-956c-437f-bf58-51ed2dff38e0" Title="Administrator settings">
+                        <HelpTOCNode Url="mshelp://windows/?id=7dcf289b-5fd3-41fd-a290-936f274def77" Title="What is an administrator account?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=1a8df084-bd58-4c60-8b62-c5bc3e08a09b" Title="What are Administrative Tools?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=dafc2d1e-4d61-4d0a-9806-f9098a0a17c4" Title="What is the registry?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=dde18d53-c90d-42eb-bd47-1f3b41ca8823" Title="What is Registry Editor?" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=4699869e-72a4-4461-afc4-416a7018b836" Title="User Account Control (UAC)">
+                        <HelpTOCNode Url="mshelp://windows/?id=0eeb9ddd-ddaa-4cc5-a092-990830566547" Title="What is User Account Control?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=58b3b879-924d-4e08-9358-c316055d3eae" Title="Turn User Account Control on or off" />
+                        <HelpTOCNode Url="mshelp://windows/?id=78540f6d-4505-497c-84cd-c37e1d9930aa" Title="What are User Account Control settings?" />
+                    </HelpTOCNode>
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=f5981cef-b682-48b7-a78e-90e2415159e4" Title="Passwords">
+                    <HelpTOCNode Url="mshelp://windows/?id=78587dc3-258d-41e1-a520-766ed4a9d438" Title="What is a password?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=37565844-50dc-47e7-9260-a5a0e903db57" Title="Tips for creating strong passwords and passphrases" />
+                    <HelpTOCNode Url="mshelp://windows/?id=22e3e8c4-39c3-4802-93d1-816094b00ed4" Title="Protect your computer with a password" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5bf12a40-12b5-4ca8-87c3-7741adbd1584" Title="Create a password reset disk" />
+                    <HelpTOCNode Url="mshelp://windows/?tocid=f623f331-0a34-408f-ba2c-2fc5f3913c54" Title="Passwords on your computer">
+                        <HelpTOCNode Url="mshelp://windows/?id=e0deb114-9987-4d90-8b49-c0bbe2e163bc" Title="Passwords: recommended links" />
+                        <HelpTOCNode Url="mshelp://windows/?id=22e3e8c4-39c3-4802-93d1-816094b00ed4" Title="Protect your computer with a password" />
+                        <HelpTOCNode Url="mshelp://windows/?id=98cec5ee-1a2d-4c9a-910d-c1b045d9c314" Title="How do I change the password requirement when my computer wakes from sleep?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=d96efdef-9c4c-4874-80a1-4671b45c67ba" Title="Create or change a password hint" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=7c3207ec-3649-46e3-907a-9eb60189a4c2" Title="Internet and network passwords">
+                        <HelpTOCNode Url="mshelp://windows/?id=3c6dd8b8-58f8-46b6-8231-6732c51e57f3" Title="Store passwords, certificates, and other credentials for automatic logon" />
+                        <HelpTOCNode Url="mshelp://windows/?id=40430c39-9183-4c34-8a41-1328a1727a44" Title="Remove stored passwords, certificates, and other credentials" />
+                        <HelpTOCNode Url="mshelp://windows/?id=f7eb34d0-eed8-4bf5-82ad-7356a8c8de53" Title="Manage stored passwords, certificates, and other credentials" />
+                        <HelpTOCNode Url="mshelp://windows/?id=4e72b6fb-b9ec-45f0-9263-bceb34f47e52" Title="Fill in website forms and passwords automatically" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=2c8b11e8-e517-4faa-bcaa-b92be8f532c6" Title="Password problems">
+                        <HelpTOCNode Url="mshelp://windows/?id=5bf12a40-12b5-4ca8-87c3-7741adbd1584" Title="Create a password reset disk" />
+                        <HelpTOCNode Url="mshelp://windows/?id=66b61e8e-341d-453b-9edd-234301dfd7e5" Title="What to do if you forget your Windows password" />
+                        <HelpTOCNode Url="mshelp://windows/?id=df16e7bd-1ed6-4ac6-bfe2-3235149a32ff" Title="Why did my password expire?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=06fd491e-6aff-4c4b-a6ac-a0abff8f2d9b" Title="Reset your Windows password" />
+                        <HelpTOCNode Url="mshelp://windows/?id=2fae3470-742d-4902-95ab-f77cbafb12d4" Title="What are the risks of resetting a password?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=6d6556cd-902a-43ff-a648-5401543d4c99" Title="Solutions to common problems with logging on to Windows" />
+                    </HelpTOCNode>
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=f92f9cbd-868b-4d1a-b4be-cebcf940fabc" Title="Logging on and off">
+                    <HelpTOCNode Url="mshelp://windows/?id=9643b4f4-b9e2-47ce-99b4-ee15c1389747" Title="What is the Welcome screen?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=11a569f2-b0eb-4276-b4f3-b97116da4f75" Title="Enable or disable secure logon (Ctrl+Alt+Delete)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5c31802d-2af9-40e7-8f89-8577dcb45119" Title="Log off from Windows" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=c3a0f9a6-4a18-4b8c-9346-55767715f0f4" Title="Controlling access to your files and folders">
+                <HelpTOCNode Url="mshelp://windows/?id=17fb415f-a682-41b7-a1ab-db2cd0315ea8" Title="Are shared files and folders secure?" />
+                <HelpTOCNode Url="mshelp://windows/?id=31ad4562-aee7-4fed-8316-89114dc97303" Title="How do I open a file if I get an access denied message?" />
+                <HelpTOCNode Url="mshelp://windows/?id=7eccafae-4771-43d2-b19a-f4523f61babc" Title="What to know before applying permissions to a file or folder" />
+                <HelpTOCNode Url="mshelp://windows/?id=bd8ef786-c1f1-49ef-85c8-5895f5ee1378" Title="What are permissions?" />
+                <HelpTOCNode Url="mshelp://windows/?id=93e008e4-929c-4904-ab54-65f5a40fe7fa" Title="Can I protect files or folders with a password?" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=0e012bef-e531-4461-814e-67b6ea81a0b0" Title="Encryption in Windows">
+                    <HelpTOCNode Url="mshelp://windows/?tocid=572ac1b8-7f5a-4711-aaf2-a5337f841bf3" Title="Understanding encryption">
+                        <HelpTOCNode Url="mshelp://windows/?id=f219e5c8-b97b-469a-8dc3-d1791fa6386c" Title="What is encryption?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e895bd18-36e5-4229-8424-dff307b155c2" Title="What is Encrypting File System (EFS)?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=884465ea-54ad-4e01-a8ce-962c5e3ee4ff" Title="Help protect your files using BitLocker Drive Encryption" />
+                        <HelpTOCNode Url="mshelp://windows/?id=62f28747-c146-483c-b378-ff3f3977f011" Title="What's the difference between BitLocker Drive Encryption and Encrypting File System?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=d8d3bcb4-6575-4b85-8bc7-2e77b185d629" Title="What is a BitLocker Drive Encryption startup key or PIN?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e5e3d8ca-2e6f-4432-a01f-459644984f90" Title="What is a BitLocker recovery key?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=17372e1b-429b-41ea-b93d-11d29ec67972" Title="What's the difference between suspending BitLocker Drive Encryption and decrypting the drive?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=fc554c30-32d5-4bc2-9971-be5c16a87415" Title="Why BitLocker Drive Encryption might block your computer from starting" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=8558c2a0-1cc9-43b9-8e5d-a6e60ce95849" Title="Using encryption">
+                        <HelpTOCNode Url="mshelp://windows/?id=4121b78c-9cb0-4715-93ec-80ba841670a3" Title="Back up Encrypting File System (EFS) certificate" />
+                        <HelpTOCNode Url="mshelp://windows/?id=196e3453-e553-4af3-8220-bdee6e60148c" Title="Use a smart card for file encryption" />
+                        <HelpTOCNode Url="mshelp://windows/?id=67bc0494-9a42-4c8a-88fd-6fa4c9c4c498" Title="What to do if you lose your file encryption key" />
+                        <HelpTOCNode Url="mshelp://windows/?id=2bfc10ba-0869-47cd-9fb2-aee51a8a375a" Title="Recover encrypted files or folders" />
+                        <HelpTOCNode Url="mshelp://windows/?id=90cdd1fe-9cbb-4adc-bccf-7d613425e15e" Title="Create a recovery certificate for encrypted files" />
+                        <HelpTOCNode Url="mshelp://windows/?id=31ad4562-aee7-4fed-8316-89114dc97303" Title="How do I open a file if I get an access denied message?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=06dd6cf9-420c-4819-8eaf-f0e7c5130074" Title="Set up your hard disk for BitLocker Drive Encryption" />
+                        <HelpTOCNode Url="mshelp://windows/?id=a93aee6b-c329-4d52-9f13-a8588fc9510e" Title="Hardware requirements for BitLocker Drive Encryption" />
+                        <HelpTOCNode Url="mshelp://windows/?id=a156eb36-d9c7-4e21-afda-aab3b17544d2" Title="How do I use BitLocker with Windows Backup?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=009d58c4-cce8-44e0-b5ba-f1489402056e" Title="How do I use the unlock options in BitLocker Drive Encryption?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=cdb2754b-d10f-4bbb-920e-47f3c2418d43" Title="Regain access to a computer locked by BitLocker Drive Encryption" />
+                        <HelpTOCNode Url="mshelp://windows/?id=30813079-464d-4580-8769-2b74b77f034f" Title="Update the BIOS for BitLocker Drive Encryption" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=7d422c99-621d-441e-8f75-a2f4f6e40359" Title="Understanding certificates and keys">
+                        <HelpTOCNode Url="mshelp://windows/?id=85d1a658-27cd-4749-a41d-3e6ef3eb268b" Title="Certificates: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=9a07a27f-3406-4af5-856b-a412b3865e67" Title="What is Advanced Encryption Standard (AES)?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=67bc0494-9a42-4c8a-88fd-6fa4c9c4c498" Title="What to do if you lose your file encryption key" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=dccb92d7-394e-4c80-9f4d-b6b38ac20fbe" Title="Using certificates and keys">
+                        <HelpTOCNode Url="mshelp://windows/?id=a57a997d-cad4-4b95-84b1-efb3ede7cd52" Title="Import or export certificates and private keys" />
+                        <HelpTOCNode Url="mshelp://windows/?id=f535eea3-1bdd-46ca-a2fc-a6655939b7e8" Title="Request or renew a certificate" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e1fd6af3-8bd6-4e44-8b62-46d5c8995b29" Title="View or manage your certificates" />
+                        <HelpTOCNode Url="mshelp://windows/?id=4121b78c-9cb0-4715-93ec-80ba841670a3" Title="Back up Encrypting File System (EFS) certificate" />
+                        <HelpTOCNode Url="mshelp://windows/?id=90cdd1fe-9cbb-4adc-bccf-7d613425e15e" Title="Create a recovery certificate for encrypted files" />
+                        <HelpTOCNode Url="mshelp://windows/?id=21ad2809-1f05-452c-ae20-bca7994fed10" Title="Change the key you use to encrypt files and folders" />
+                    </HelpTOCNode>
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=1f228978-d1d2-4684-94db-a20013cc309f" Title="Privacy statements">
+                <HelpTOCNode Url="mshelp://windows/?id=7d07d3b2-6530-4199-81f6-948ad0d67dd8" Title="Read the Windows privacy statement" />
+                <HelpTOCNode Url="mshelp://windows/?id=580d6f95-ecc8-4947-a965-e3898897cb78" Title="Read the Microsoft Software License Terms" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=7edd4bb3-9b71-4847-b1fb-baa4753e52d6" Title="Security and encryption on a network">
+                <HelpTOCNode Url="mshelp://windows/?id=75bbf83e-a80b-4dd4-966d-6da33924992c" Title="Why should I secure my wireless network?" />
+                <HelpTOCNode Url="mshelp://windows/?id=80ec1c9e-4d3d-4008-a341-ebe1474b247f" Title="How do I know if a wireless network is secure?" />
+                <HelpTOCNode Url="mshelp://windows/?id=b385cc8a-af25-489e-a82e-decf6df26b68" Title="What are the different wireless network security methods?" />
+                <HelpTOCNode Url="mshelp://windows/?id=bf6372bb-c95c-4b39-aa50-de7e5bf03468" Title="Making your network more secure" />
+                <HelpTOCNode Url="mshelp://windows/?id=044ee3ed-ab72-48c7-9515-95d56f925fcb" Title="Set up a security key for a wireless network" />
+                <HelpTOCNode Url="mshelp://windows/?id=b304d9c9-c3ca-4e05-933e-68355578e90c" Title="What is a smart card and how do I use one?" />
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=35e2e59d-fdb9-4bd8-94c0-2e75cdb3ae63" Title="Maintenance and performance">
+            <HelpTOCNode Url="mshelp://windows/?id=a2f80104-cb3a-4b9c-901f-733f4a882248" Title="Troubleshooting in Windows" />
+            <HelpTOCNode Url="mshelp://windows/?id=95f70af6-edd6-4f2f-9f02-7d6bdf019061" Title="Ways to improve your computer's performance" />
+            <HelpTOCNode Url="mshelp://windows/?id=132c1dab-6da1-47cf-96af-8f00eceaf6f5" Title="Ways to improve display quality" />
+            <HelpTOCNode Url="mshelp://windows/?id=5569a7bb-b6c5-4985-b5ab-c3cf224eae69" Title="What information is sent to Microsoft when I report a problem?" />
+            <HelpTOCNode Url="mshelp://windows/?id=bbeaaca4-c6ae-47f8-8f2f-03deadf80271" Title="What is Action Center?" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=36e63cd7-89d4-47cb-a54d-eb5ecdc7cfda" Title="Keeping your computer up to date">
+                <HelpTOCNode Url="mshelp://windows/?id=b2016265-ed51-4e72-b3ce-78acd294b4ce" Title="What are updates?" />
+                <HelpTOCNode Url="mshelp://windows/?id=acf89fb8-0175-48be-97d4-007ea8032130" Title="How can I tell if my computer is up to date?" />
+                <HelpTOCNode Url="mshelp://windows/?id=0ae49d2f-8697-47a0-ba50-71405dc0863c" Title="Updates: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=716aa5da-78a5-4016-9006-4dc5f9fe6824" Title="Updating your computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=f5a67453-ca1e-4fc9-8e85-93bcd0dc47f2" Title="Keeping computers on a network up to date" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=1d055713-b7b3-4592-914a-cbe8c4f03f9d" Title="Finding and installing updates">
+                    <HelpTOCNode Url="mshelp://windows/?id=8f259118-0d61-4c7a-8c56-24987e87a817" Title="Install Windows updates" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8ee4f673-5b5c-4de7-a2df-ed0b3d2d5469" Title="Get security updates for Windows" />
+                    <HelpTOCNode Url="mshelp://windows/?id=08603313-b94f-4597-ae20-b4267df16bb9" Title="Change how Windows installs or notifies you about updates" />
+                    <HelpTOCNode Url="mshelp://windows/?id=26d261bd-14b4-42d3-8fb1-492dfc493f98" Title="Restore and install hidden updates" />
+                    <HelpTOCNode Url="mshelp://windows/?id=182043da-fc3e-4220-afbc-d9b09f2b2a1a" Title="Remove an update" />
+                    <HelpTOCNode Url="mshelp://windows/?tocid=ee00c533-a70e-4505-880c-b50061f56a54" Title="Updating drivers">
+                        <HelpTOCNode Url="mshelp://windows/?id=292c90ca-6ee9-41e2-b9bd-626377836626" Title="Update drivers: recommended links" />
+                        <HelpTOCNode Url="mshelp://windows/?id=b3c6477e-1111-4b9f-a52a-fffdc51e9c90" Title="Update a driver for hardware that isn't working properly" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=a0e4756f-35ad-4b1a-8d3d-5df5d8246942" Title="Updating programs">
+                        <HelpTOCNode Url="mshelp://windows/?id=088b9f36-22dd-434e-82ec-d00b78e81e49" Title="Update your antivirus software" />
+                        <HelpTOCNode Url="mshelp://windows/?id=9c43ed69-4dfa-477e-a6bc-e1023476b198" Title="Update Internet Explorer" />
+                        <HelpTOCNode Url="mshelp://windows/?id=c572ab3e-ebc4-4f5e-946a-73ecd0d5d359" Title="Update Microsoft Office" />
+                        <HelpTOCNode Url="mshelp://windows/?id=7f6dcd70-ad5e-4224-962d-737abdecab5e" Title="Keep Windows Defender definitions up to date" />
+                    </HelpTOCNode>
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=2698467f-6a4e-43dc-b521-d715fa5dc5f5" Title="Installing Windows updates automatically">
+                    <HelpTOCNode Url="mshelp://windows/?id=84fee4a4-2000-4de5-98a9-1e897e87f566" Title="Understanding Windows automatic updating" />
+                    <HelpTOCNode Url="mshelp://windows/?id=61fb9ef2-03c9-4a03-9b78-95bed6e50833" Title="Turn automatic updating on or off" />
+                    <HelpTOCNode Url="mshelp://windows/?id=26d54faf-bee6-4d4a-b5e7-2f08b53c2c4c" Title="Troubleshoot problems with installing updates" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5a319824-5cb5-493d-9151-9a97d0f565b6" Title="Troubleshoot problems with removing updates" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=d7ffcb69-f45f-41c8-9b91-757c957b9628" Title="Monitoring your system">
+                <HelpTOCNode Url="mshelp://windows/?id=3bcaea06-5be5-4f06-bcc8-884097ccc769" Title="View your computer information" />
+                <HelpTOCNode Url="mshelp://windows/?id=d1711f49-8584-415f-b418-588f3f1a051b" Title="Get computer speed and performance information" />
+                <HelpTOCNode Url="mshelp://windows/?id=010c34ba-8293-4b02-8590-308d5495c233" Title="Find your computer's processor speed" />
+                <HelpTOCNode Url="mshelp://windows/?id=479a7531-57ad-43c1-91b1-3f46a0e1761e" Title="Find out how much RAM your computer has" />
+                <HelpTOCNode Url="mshelp://windows/?id=d119bbe6-f604-4eb1-9c75-bbbc45cce1da" Title="See details about your computer's performance using Task Manager" />
+                <HelpTOCNode Url="mshelp://windows/?id=017d7569-7e13-4df8-accf-164d28b832dc" Title="View programs running on this computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=bbeaaca4-c6ae-47f8-8f2f-03deadf80271" Title="What is Action Center?" />
+                <HelpTOCNode Url="mshelp://windows/?id=91558e3c-22f9-42dd-a132-f51482063c98" Title="How does Action Center check for problems?" />
+                <HelpTOCNode Url="mshelp://windows/?id=4ce07073-a6ab-48b7-a4bd-ec65aee47497" Title="Why do some solutions or problem reports stop showing up in Action Center?" />
+                <HelpTOCNode Url="mshelp://windows/?id=f59082f4-6385-4a61-ba7e-2de9625a780a" Title="What is the Windows Experience Index?" />
+                <HelpTOCNode Url="mshelp://windows/?id=76347d40-8d1c-4069-8c42-8dce7a2d39b7" Title="What is the Microsoft Management Console (MMC)?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=c84980da-5aba-4cbc-b2d6-61719d2375dc" Title="Getting help">
+                <HelpTOCNode Url="mshelp://windows/?id=710dcbcc-da2c-482b-9de5-cc15225565e6" Title="Getting help (overview)" />
+                <HelpTOCNode Url="mshelp://windows/?id=a2f80104-cb3a-4b9c-901f-733f4a882248" Title="Troubleshooting in Windows" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=f21915d3-5d94-4648-a4c2-88708d1eea92" Title="Getting the latest Help content">
+                    <HelpTOCNode Url="mshelp://windows/?id=927376e7-d985-402a-af37-a3d41d45116c" Title="Get the latest Help content (overview)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=81c40fd9-69d8-4405-b17f-bbec50e4c4c5" Title="What is the Windows website?" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=0673948d-ae08-41de-91af-5125e250939c" Title="Getting help from someone">
+                    <HelpTOCNode Url="mshelp://windows/?id=099fe18b-bfcb-4c93-b4ef-51ddb15490e1" Title="Customer support options" />
+                    <HelpTOCNode Url="mshelp://windows/?id=1906e592-9192-46e4-92fa-d16eb716ad71" Title="What is Windows Remote Assistance?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8cb0f62f-9b65-4aa8-ad02-4ef102ee7c52" Title="Get help with your computer using Windows Remote Assistance" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6fd17a90-60f3-4bf8-8f57-673484d40774" Title="Help someone with a computer problem using Windows Remote Assistance" />
+                    <HelpTOCNode Url="mshelp://windows/?id=398b5eda-aa7f-4078-94c5-1519b697bfa0" Title="Windows Remote Assistance: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=f3d93801-919f-46a0-bf01-1a0e3c9ec2cc" Title="Allow Windows Remote Assistance to communicate through a firewall" />
+                    <HelpTOCNode Url="mshelp://windows/?id=62087979-e422-48d6-a676-4f37ef5903c5" Title="Using Windows Remote Assistance settings" />
+                    <HelpTOCNode Url="mshelp://windows/?id=613faf4a-92a5-4250-827a-034c9a3933d6" Title="How does Windows Remote Assistance affect computer privacy and security?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=2001f924-eed7-4e5a-88d7-79c29a5e154c" Title="Which connection method should I use in Windows Remote Assistance?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b92c299f-966c-48ab-bb10-b17a65098938" Title="What happens when I enable Windows Remote Assistance?" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=33e9a89d-b498-4cb9-82c5-fa88829bb7e2" Title="Power options">
+                <HelpTOCNode Url="mshelp://windows/?id=cb5c85e7-7cf5-4596-ac7a-a72f8b6238f8" Title="Conserving battery power (overview)" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=71b9e3c9-49ae-4c3d-8f3e-3fb0bfe87ca6" Title="Manage how your computer uses power">
+                    <HelpTOCNode Url="mshelp://windows/?id=495c2226-19f1-49eb-9fd8-6dd7f2c0b49e" Title="Power plans: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=9b607ce6-70f7-4d25-924b-5ac2fe6a2175" Title="Change, create, or delete a power plan (scheme)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=98cec5ee-1a2d-4c9a-910d-c1b045d9c314" Title="How do I change the password requirement when my computer wakes from sleep?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=0bd37789-cb50-4ca6-9976-0774e44ffcea" Title="Change what happens when you close your laptop" />
+                    <HelpTOCNode Url="mshelp://windows/?id=0490729c-26fa-499c-9df6-e672afc3f251" Title="Change what happens when you press the power button on your computer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=3b59bc06-2353-408e-b66c-70d4090118d7" Title="Solutions to common power problems" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=066d8c08-d765-46ef-9aa8-d93f664530da" Title="Battery power">
+                    <HelpTOCNode Url="mshelp://windows/?id=cb5c85e7-7cf5-4596-ac7a-a72f8b6238f8" Title="Conserving battery power (overview)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=1d97f61e-e4f9-4ff2-8a9e-d9e241372c8e" Title="Battery meter: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5c39ae20-a443-4608-a0a3-fdddb9bb5163" Title="How accurate is the battery meter?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b2c84821-96e9-4e36-a09a-344c86ffc3b5" Title="Solutions to common battery problems" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=f80529d5-1d20-45ea-a420-386f59bc03a6" Title="Managing hard disks and memory">
+                <HelpTOCNode Url="mshelp://windows/?id=05a09890-9231-4ad0-b86a-1725e22ad57b" Title="Managing hard disks: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=d495690f-33b3-4ae2-b121-ee9a89d6c36c" Title="Memory and RAM: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=3ccec49c-2c67-4ff7-b672-ea1d32977aa8" Title="Formatting disks and drives: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=2fac73a9-b533-4c35-a9d8-5907c17392b6" Title="Managing hard disks">
+                    <HelpTOCNode Url="mshelp://windows/?id=414a3808-283a-4e4d-b5ff-1a6d06f597d3" Title="Convert a hard disk or partition to NTFS format" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c5545765-da9b-41e4-8fd2-f1f83f9a6140" Title="Convert a hard disk or partition to FAT32 format" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d9a4d35e-efdf-406c-a049-0860180129a7" Title="Create and format a hard disk partition" />
+                    <HelpTOCNode Url="mshelp://windows/?id=2a2a77f9-19a9-4112-adbe-c605ef448a0f" Title="Create a boot partition" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d79597f9-673a-449b-bf24-b5c00ff7dd6a" Title="Delete a hard disk partition" />
+                    <HelpTOCNode Url="mshelp://windows/?id=f2e9a502-e63c-413d-8804-87326ef4f4cc" Title="Can I repartition my hard disk?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=434766b0-c23b-44de-8bed-611e736b6153" Title="Mount or dismount a drive" />
+                    <HelpTOCNode Url="mshelp://windows/?id=0260f433-b882-4d26-8d54-90f4e7cd1ffd" Title="Mark a partition as active" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=60d20456-55e0-42fb-bb91-da949f53ef4f" Title="Improving hard disk performance">
+                    <HelpTOCNode Url="mshelp://windows/?id=95f70af6-edd6-4f2f-9f02-7d6bdf019061" Title="Ways to improve your computer's performance" />
+                    <HelpTOCNode Url="mshelp://windows/?id=12428141-2e4c-43ab-8dd2-a6ed6e3b8776" Title="Using memory in your storage device to speed up your computer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=1399f42d-c6d4-4716-97a7-612a1f0598e3" Title="Improve performance by defragmenting your hard disk" />
+                    <HelpTOCNode Url="mshelp://windows/?id=353188f4-dfd4-4d13-b204-de4cec9e4a5a" Title="Start Disk Cleanup" />
+                    <HelpTOCNode Url="mshelp://windows/?id=4bda81e9-afef-46a1-a704-1a9d70bdd198" Title="Schedule Disk Cleanup to run regularly" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=aec91c3d-b306-497f-93f7-19c3f3b09894" Title="Managing memory and virtual memory">
+                    <HelpTOCNode Url="mshelp://windows/?id=d495690f-33b3-4ae2-b121-ee9a89d6c36c" Title="Memory and RAM: recommended links" />
+                    <HelpTOCNode Url="mshelp://windows/?id=479a7531-57ad-43c1-91b1-3f46a0e1761e" Title="Find out how much RAM your computer has" />
+                    <HelpTOCNode Url="mshelp://windows/?id=34955e8d-9e3b-4f68-8e7d-773c167c61e2" Title="Preventing low memory problems" />
+                    <HelpTOCNode Url="mshelp://windows/?id=12428141-2e4c-43ab-8dd2-a6ed6e3b8776" Title="Using memory in your storage device to speed up your computer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=4edd5f80-def2-4d32-965c-116d49fb9872" Title="Diagnosing memory problems on your computer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6e566289-20fa-4ed4-bddf-0b36a77b003c" Title="View how much memory your computer is using" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=b6666112-fa91-438d-a17b-a7e89b8d08f6" Title="Troubleshooting startup problems">
+                <HelpTOCNode Url="mshelp://windows/?id=cdb4c0dd-5698-4197-b906-d6a6d413621d" Title="Using Last Known Good Configuration" />
+                <HelpTOCNode Url="mshelp://windows/?id=bd9e1cb6-a66a-47a8-a4b6-ef7ea672ae4b" Title="Using System Configuration" />
+                <HelpTOCNode Url="mshelp://windows/?id=121ff6a6-181e-4e8f-83bb-c7b1f3c6d71a" Title="Run Selective Startup using System Configuration" />
+                <HelpTOCNode Url="mshelp://windows/?id=3027d831-4adf-4d3f-bbe8-167e670a9548" Title="Start System Configuration" />
+                <HelpTOCNode Url="mshelp://windows/?id=b992aa5c-61cf-4ad5-a3a1-f4def9976cba" Title="Diagnostic tools to use in safe mode" />
+                <HelpTOCNode Url="mshelp://windows/?id=323ef48f-7b93-4079-a48a-5c58eec904a1" Title="Start your computer in safe mode" />
+                <HelpTOCNode Url="mshelp://windows/?id=d063548a-3fc9-4723-99f3-b12a0c4354a8" Title="What is safe mode?" />
+                <HelpTOCNode Url="mshelp://windows/?id=ac778c16-dbf9-48f6-9906-2a87dfffa4b1" Title="Troubleshooting problems while in safe mode" />
+                <HelpTOCNode Url="mshelp://windows/?id=09a45f1f-c30c-4014-ba19-3818bfb2ebd9" Title="Which drivers get loaded in safe mode?" />
+                <HelpTOCNode Url="mshelp://windows/?id=5c59f8c1-b0d1-4f1a-af55-74f3922f3f35" Title="Startup Repair: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=bcb67279-4986-4949-ae34-07e680101569" Title="BIOS: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=4d7d08ba-d61c-4c02-9f94-6d2c0e34ae73" Title="What happened to the boot.ini file?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=a61dcb53-3b36-4f27-bb42-25772e68a2cb" Title="Troubleshooting and diagnostic tools">
+                <HelpTOCNode Url="mshelp://windows/?id=a2f80104-cb3a-4b9c-901f-733f4a882248" Title="Troubleshooting in Windows" />
+                <HelpTOCNode Url="mshelp://windows/?id=4edd5f80-def2-4d32-965c-116d49fb9872" Title="Diagnosing memory problems on your computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=864b03b0-1f2e-42ce-b155-c9b280ea3385" Title="Why won't my computer turn on or off quickly?" />
+                <HelpTOCNode Url="mshelp://windows/?id=ca607790-adf6-41a7-abd8-0a1f2feb70b1" Title="Why won't Windows allow me to change a system setting?" />
+                <HelpTOCNode Url="mshelp://windows/?id=132c1dab-6da1-47cf-96af-8f00eceaf6f5" Title="Ways to improve display quality" />
+                <HelpTOCNode Url="mshelp://windows/?id=d1711f49-8584-415f-b418-588f3f1a051b" Title="Get computer speed and performance information" />
+                <HelpTOCNode Url="mshelp://windows/?id=64652998-b809-4588-9a6c-e3e3681c0a5f" Title="Identify the process associated with a program" />
+                <HelpTOCNode Url="mshelp://windows/?id=6b1b15e7-6e2f-4c62-be2f-687038699173" Title="What is System Information?" />
+                <HelpTOCNode Url="mshelp://windows/?id=a99f69c1-935f-4116-ba5f-33d8800ef9da" Title="Open Event Viewer" />
+                <HelpTOCNode Url="mshelp://windows/?id=1bcadb98-7479-4fad-82dd-7f30a80dfa4f" Title="What information appears in event logs (Event Viewer)?" />
+                <HelpTOCNode Url="mshelp://windows/?id=02d062ea-b484-4628-849e-bab268854c9a" Title="What is the Microsoft Support Diagnostic Tool?" />
+                <HelpTOCNode Url="mshelp://windows/?id=bbeaaca4-c6ae-47f8-8f2f-03deadf80271" Title="What is Action Center?" />
+                <HelpTOCNode Url="mshelp://windows/?id=91558e3c-22f9-42dd-a132-f51482063c98" Title="How does Action Center check for problems?" />
+                <HelpTOCNode Url="mshelp://windows/?id=4ce07073-a6ab-48b7-a4bd-ec65aee47497" Title="Why do some solutions or problem reports stop showing up in Action Center?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=f9ee1427-904e-4fa5-8875-cfd7b646bb85" Title="Scheduling maintenance tasks">
+                <HelpTOCNode Url="mshelp://windows/?id=d2a0a504-6a29-4358-b04b-d4bd1abf36c5" Title="Schedule a task" />
+                <HelpTOCNode Url="mshelp://windows/?id=4bda81e9-afef-46a1-a704-1a9d70bdd198" Title="Schedule Disk Cleanup to run regularly" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=3781375c-6e08-4b51-aa67-f888fa50b5f5" Title="Backing up and restoring">
+                <HelpTOCNode Url="mshelp://windows/?id=9eb3d150-fe33-41a0-b7f6-233d7fe4460a" Title="Back up and restore: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=f3b8150b-0bd1-4fec-8283-7a1dd45c1637" Title="Create a restore point" />
+                <HelpTOCNode Url="mshelp://windows/?id=9f6d755a-74bb-4a7d-a625-d762dd8e79e5" Title="What is System Restore?" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=78d9ce1b-074c-4ac4-8096-0fdc8b85964d" Title="System settings and programs">
+                    <HelpTOCNode Url="mshelp://windows/?id=ca11e84f-fce6-4e3e-82ef-467870bb6baf" Title="Back up your programs, system settings, and files" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c02cdc19-923e-450a-b796-c01059ca1415" Title="Back up the registry" />
+                    <HelpTOCNode Url="mshelp://windows/?tocid=c3e49ca2-8b6a-4733-b919-e689e6578543" Title="Using System Restore">
+                        <HelpTOCNode Url="mshelp://windows/?id=9f6d755a-74bb-4a7d-a625-d762dd8e79e5" Title="What is System Restore?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=517d3b8e-3379-46c1-b479-05b30d6fb3f0" Title="System Restore: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=d2c85f69-c062-49a5-8ccc-27af998b4fed" Title="What types of files does System Restore change?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=fd0b642e-193c-4a23-9045-9faac6eb5b8b" Title="Undo System Restore" />
+                        <HelpTOCNode Url="mshelp://windows/?id=2b4ed18a-d6f2-4519-b181-bcf9938b9e00" Title="How much disk space does System Restore require?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=f0688925-5abe-4caf-b49a-018f8cfcaf4d" Title="Turn System Restore on or off" />
+                        <HelpTOCNode Url="mshelp://windows/?id=6b969e00-d4ec-4d3a-bffe-b96107e3bda9" Title="Start System Restore from a command prompt" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=91e749ba-693c-4b7c-9f39-794e9eedadd2" Title="Recovery">
+                        <HelpTOCNode Url="mshelp://windows/?id=46e58254-c5c0-495e-a3a9-6b2dc42c845b" Title="What is Recovery?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=ed2559a6-3570-4709-92d1-5757d59c0353" Title="Choosing an advanced recovery method" />
+                        <HelpTOCNode Url="mshelp://windows/?id=0448354e-aeb6-4953-8be1-74cde71e8581" Title="Restore your computer from a system image backup" />
+                    </HelpTOCNode>
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=9b49f6fd-6b7e-4bc0-acff-2d9217e0af79" Title="Files and folders">
+                    <HelpTOCNode Url="mshelp://windows/?id=afb7ed89-ed63-4e07-a482-d7004a8f4012" Title="Previous versions of files: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?tocid=6656820c-abf7-4403-9625-77b7126b31e0" Title="Backing up files">
+                        <HelpTOCNode Url="mshelp://windows/?id=9eb3d150-fe33-41a0-b7f6-233d7fe4460a" Title="Back up and restore: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=699ce30c-13f1-46ec-9684-e84bf4109dd8" Title="Back up your files" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=d70ccdc5-8ab7-484b-ab8a-69592b62e90c" Title="Restoring files">
+                        <HelpTOCNode Url="mshelp://windows/?id=5e1789f5-2f20-4cb5-8d6e-5b2d8670731f" Title="Recover lost or deleted files" />
+                        <HelpTOCNode Url="mshelp://windows/?id=55e35b7f-58ab-409b-997c-bcc81d64c427" Title="Restore files from a backup" />
+                        <HelpTOCNode Url="mshelp://windows/?id=fe1e050f-f279-4404-b895-c34b5c539859" Title="Recover files from the Recycle Bin" />
+                    </HelpTOCNode>
+                </HelpTOCNode>
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=bbaaa159-d1a8-447d-b5ca-290c387a0f20" Title="Networking — connecting computers and devices">
+            <HelpTOCNode Url="mshelp://windows/?id=60e126a1-bedc-4ab4-b5fe-34c20946fb6a" Title="What you need to set up a home network" />
+            <HelpTOCNode Url="mshelp://windows/?id=76174f4a-7522-425a-9424-324dd299265e" Title="Setting up a home network" />
+            <HelpTOCNode Url="mshelp://windows/?id=89adebd1-06a4-43ec-a33b-5964b436f96d" Title="Wireless networking: frequently asked questions" />
+            <HelpTOCNode Url="mshelp://windows/?id=5e57c42f-e361-4424-9dbf-200e326d7261" Title="Working with the Network folder" />
+            <HelpTOCNode Url="mshelp://windows/?id=6ed24a90-6b57-4f0f-a3b3-e521ae945f33" Title="Networking home computers running different versions of Windows" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=ca930afb-7f22-4e59-b977-fa341ec83337" Title="Using HomeGroup to share files and printers on a home network">
+                <HelpTOCNode Url="mshelp://windows/?id=c2a1b9d7-e334-4bd8-bf51-d3e4cc707759" Title="What is a homegroup?" />
+                <HelpTOCNode Url="mshelp://windows/?id=b5f51202-8c35-412e-a60d-bd99432e2a0b" Title="HomeGroup: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=4a0f9335-db11-499e-afb1-b903a538cded" Title="HomeGroup: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=1a6877a8-8163-4599-90f2-5aff94a5bd46" Title="Join a homegroup" />
+                <HelpTOCNode Url="mshelp://windows/?id=e9938e1e-520f-4c36-8987-46ef9211beee" Title="Leave a homegroup" />
+                <HelpTOCNode Url="mshelp://windows/?id=d98094d8-9dec-4b57-8e9f-e36062a3563d" Title="Create a homegroup" />
+                <HelpTOCNode Url="mshelp://windows/?id=74e40fef-09c5-4845-aa52-673a79ad1b0e" Title="Add computers to a homegroup" />
+                <HelpTOCNode Url="mshelp://windows/?id=6fbf4697-cda9-4e67-b38c-f04b352d4d82" Title="Access files and printers on other homegroup computers" />
+                <HelpTOCNode Url="mshelp://windows/?id=8c04a1db-ef5f-4293-a701-59db882b0dce" Title="Change HomeGroup settings" />
+                <HelpTOCNode Url="mshelp://windows/?id=684fc79f-1c2d-4dd0-8fc9-4fba610e02e3" Title="Change a homegroup password" />
+                <HelpTOCNode Url="mshelp://windows/?id=fc2dd880-7313-46c1-8c7d-f338afb38d06" Title="Where can I find my homegroup password?" />
+                <HelpTOCNode Url="mshelp://windows/?id=b1299b33-8b83-4b78-99e2-74c67f97eb38" Title="Keep specific files and folders from being shared with a homegroup" />
+                <HelpTOCNode Url="mshelp://windows/?id=ef62cf48-4479-489f-99c3-55c8245977b6" Title="Combine two homegroups" />
+                <HelpTOCNode Url="mshelp://windows/?id=8daa3326-5578-4bdd-82fd-9881527cd4c4" Title="Share libraries with your homegroup" />
+                <HelpTOCNode Url="mshelp://windows/?id=12e2db71-77bc-48da-88ad-8e3d7cb80da2" Title="Should I manage my home network connections manually or use Windows to do it automatically?" />
+                <HelpTOCNode Url="mshelp://windows/?id=f6e0f9c0-f59d-410e-9076-483a351365c2" Title="Why can't I access my homegroup?" />
+                <HelpTOCNode Url="mshelp://windows/?id=2afc1a53-8eb5-4fa5-aded-c3c6a77977f1" Title="Why can't I create a homegroup?" />
+                <HelpTOCNode Url="mshelp://windows/?id=fb473831-d336-484d-96c8-bed344f0993d" Title="Why can’t I print to a printer in my homegroup?" />
+                <HelpTOCNode Url="mshelp://windows/?id=5d9b5f45-fe8e-4ad0-abcc-bf0f19a83a39" Title="Open the HomeGroup troubleshooter" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=4db533bd-3bcc-42db-ae7f-7dcacfee2739" Title="Setting up a network">
+                <HelpTOCNode Url="mshelp://windows/?id=60e126a1-bedc-4ab4-b5fe-34c20946fb6a" Title="What you need to set up a home network" />
+                <HelpTOCNode Url="mshelp://windows/?id=b931c4ca-5f26-4924-91a7-29a269680e89" Title="How do hubs, switches, routers, and access points differ?" />
+                <HelpTOCNode Url="mshelp://windows/?id=76174f4a-7522-425a-9424-324dd299265e" Title="Setting up a home network" />
+                <HelpTOCNode Url="mshelp://windows/?id=7cf0a853-e53a-40ea-850a-5cef7d148242" Title="Join or create a workgroup" />
+                <HelpTOCNode Url="mshelp://windows/?id=222ab548-32a8-4303-83a3-8d4c45ae0b8d" Title="Why can’t I set up a network using IEEE 1394?" />
+                <HelpTOCNode Url="mshelp://windows/?id=deafc97a-6ff4-4f57-b3a4-fab84388ef1f" Title="Configuring multiple gateways on a network" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=4335f45f-7747-4cc0-b895-5924f1402b1b" Title="Connecting to a network">
+                <HelpTOCNode Url="mshelp://windows/?id=88ea056e-664a-4c3d-b977-13f79cb4dedb" Title="View and connect to available wireless networks" />
+                <HelpTOCNode Url="mshelp://windows/?id=60a4e7c1-123c-469c-9fa7-29c5f2322da9" Title="View computers and devices on a network" />
+                <HelpTOCNode Url="mshelp://windows/?id=efa4b632-6b53-4747-9811-baeff5ba403a" Title="View the status of your network" />
+                <HelpTOCNode Url="mshelp://windows/?id=0e5f2e0c-9906-4518-b7c7-d3632105dcad" Title="What is network discovery?" />
+                <HelpTOCNode Url="mshelp://windows/?id=604ba8bf-f335-4846-a0c1-5216c15776ab" Title="Switching between your home and workplace networks" />
+                <HelpTOCNode Url="mshelp://windows/?id=909d569b-ed98-4176-9f7c-6eed5201ba44" Title="Create a shortcut to (map) a network drive" />
+                <HelpTOCNode Url="mshelp://windows/?id=ca2d0191-299e-4dc3-afab-df5862d460be" Title="Enable or disable a network adapter" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=656bece9-5308-4c11-b26d-53e384e2d80b" Title="Connecting to a wireless network">
+                    <HelpTOCNode Url="mshelp://windows/?id=88ea056e-664a-4c3d-b977-13f79cb4dedb" Title="View and connect to available wireless networks" />
+                    <HelpTOCNode Url="mshelp://windows/?id=89adebd1-06a4-43ec-a33b-5964b436f96d" Title="Wireless networking: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=2e8b049d-7265-4ac0-a3c5-56a7c5e8cef6" Title="View your preferred wireless networks" />
+                    <HelpTOCNode Url="mshelp://windows/?id=28fe86e1-8d2f-4892-ba38-f6973b9f58c5" Title="Why can’t I find a wireless network?" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=38ab56c8-ac18-4fb4-a8b6-e519f1dd5f3c" Title="Connecting to computers or devices">
+                    <HelpTOCNode Url="mshelp://windows/?id=0ad0bba9-0732-48ae-9423-4609fb07bf45" Title="Connecting to other computers: recommended links" />
+                    <HelpTOCNode Url="mshelp://windows/?id=60a4e7c1-123c-469c-9fa7-29c5f2322da9" Title="View computers and devices on a network" />
+                    <HelpTOCNode Url="mshelp://windows/?id=67cdb8d4-c3fe-43db-a00e-53159bf8695b" Title="Add a Bluetooth enabled device" />
+                    <HelpTOCNode Url="mshelp://windows/?tocid=91ef85be-e40f-45ec-877e-828e79c91247" Title="Connect to a remote computer">
+                        <HelpTOCNode Url="mshelp://windows/?id=0ad0bba9-0732-48ae-9423-4609fb07bf45" Title="Connecting to other computers: recommended links" />
+                        <HelpTOCNode Url="mshelp://windows/?id=b304d9c9-c3ca-4e05-933e-68355578e90c" Title="What is a smart card and how do I use one?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=9ac273b9-1b56-4cb7-b970-b9e3f3d6ee01" Title="What is Routing and Remote Access?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=68a2e6f1-be0e-4b94-b44a-cabd67984fee" Title="Where can I find information about setting up a VPN server?" />
+                        <HelpTOCNode Url="mshelp://windows/?tocid=58abfcbc-6920-4458-b557-a6f6da505c94" Title="Windows Remote Assistance">
+                            <HelpTOCNode Url="mshelp://windows/?id=1906e592-9192-46e4-92fa-d16eb716ad71" Title="What is Windows Remote Assistance?" />
+                            <HelpTOCNode Url="mshelp://windows/?id=8cb0f62f-9b65-4aa8-ad02-4ef102ee7c52" Title="Get help with your computer using Windows Remote Assistance" />
+                            <HelpTOCNode Url="mshelp://windows/?id=6fd17a90-60f3-4bf8-8f57-673484d40774" Title="Help someone with a computer problem using Windows Remote Assistance" />
+                            <HelpTOCNode Url="mshelp://windows/?id=398b5eda-aa7f-4078-94c5-1519b697bfa0" Title="Windows Remote Assistance: frequently asked questions" />
+                            <HelpTOCNode Url="mshelp://windows/?id=f3d93801-919f-46a0-bf01-1a0e3c9ec2cc" Title="Allow Windows Remote Assistance to communicate through a firewall" />
+                            <HelpTOCNode Url="mshelp://windows/?id=62087979-e422-48d6-a676-4f37ef5903c5" Title="Using Windows Remote Assistance settings" />
+                            <HelpTOCNode Url="mshelp://windows/?id=613faf4a-92a5-4250-827a-034c9a3933d6" Title="How does Windows Remote Assistance affect computer privacy and security?" />
+                            <HelpTOCNode Url="mshelp://windows/?id=2001f924-eed7-4e5a-88d7-79c29a5e154c" Title="Which connection method should I use in Windows Remote Assistance?" />
+                            <HelpTOCNode Url="mshelp://windows/?id=b92c299f-966c-48ab-bb10-b17a65098938" Title="What happens when I enable Windows Remote Assistance?" />
+                            <HelpTOCNode Url="mshelp://windows/?id=62db2db0-1665-4136-95c4-2f5088ddbccf" Title="What is the difference between Remote Desktop Connection and Windows Remote Assistance?" />
+                        </HelpTOCNode>
+                        <HelpTOCNode Url="mshelp://windows/?tocid=65af2051-2b94-476f-a613-28452dda6fc9" Title="Remote Desktop Connection">
+                            <HelpTOCNode Url="mshelp://windows/?id=f55326fa-e629-423b-abba-b30f76cc61e6" Title="Remote Desktop Connection: frequently asked questions" />
+                            <HelpTOCNode Url="mshelp://windows/?id=7b9fecb1-6505-45bb-a742-888471569a5f" Title="Changing Remote Desktop settings" />
+                            <HelpTOCNode Url="mshelp://windows/?tocid=a7a3244d-eb30-424c-bcee-cad1d49a4dd6" Title="Making a connection">
+                                <HelpTOCNode Url="mshelp://windows/?id=02ddfbec-7a97-4788-9d54-86f174a95f84" Title="Connect to another computer using Remote Desktop Connection" />
+                                <HelpTOCNode Url="mshelp://windows/?id=62d984d5-0ace-4a7e-b67b-9fb6a6402479" Title="Automatically log on to a remote computer using Remote Desktop Connection" />
+                                <HelpTOCNode Url="mshelp://windows/?id=142d58b8-43f0-432f-93bb-765333390591" Title="Use command line parameters with Remote Desktop Connection" />
+                                <HelpTOCNode Url="mshelp://windows/?id=011fcc70-fdb7-43fc-ae08-b33169b3f696" Title="What is a Remote Desktop Gateway server?" />
+                                <HelpTOCNode Url="mshelp://windows/?id=e8a25c65-85a1-4031-a243-436a25dfe03b" Title="What are server authentication options?" />
+                            </HelpTOCNode>
+                            <HelpTOCNode Url="mshelp://windows/?tocid=22d64d89-d072-4556-b78d-1a7d1095891f" Title="Using devices and resources in a remote desktop session">
+                                <HelpTOCNode Url="mshelp://windows/?id=36528533-7b0a-44d1-912b-619fcc483571" Title="How can I use my devices and resources in a Remote Desktop session?" />
+                                <HelpTOCNode Url="mshelp://windows/?id=737f8771-5635-4651-809f-96301752d2d9" Title="Copy and paste from a remote computer" />
+                                <HelpTOCNode Url="mshelp://windows/?id=3bccd346-854f-483f-9feb-cf434b7b9fe2" Title="Print from a remote computer to your printer" />
+                            </HelpTOCNode>
+                        </HelpTOCNode>
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=17f14d39-e09d-4446-a483-d5a912b906a8" Title="Using infrared connections">
+                        <HelpTOCNode Url="mshelp://windows/?id=53768bdd-bc1d-4bf5-973d-8a1206b88cf3" Title="Turn on an infrared connection" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e22989d0-ec84-44ff-bc4c-7b8c3d15dba1" Title="Send or receive a file using an infrared connection" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=c628b451-68eb-414a-a121-d95698636a8a" Title="Using Bluetooth wireless technology">
+                        <HelpTOCNode Url="mshelp://windows/?id=67cdb8d4-c3fe-43db-a00e-53159bf8695b" Title="Add a Bluetooth enabled device" />
+                        <HelpTOCNode Url="mshelp://windows/?id=5ceaf90b-09f3-42f7-83b7-2b9d789c48fc" Title="What is a trusted device?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e8f8c361-546d-4511-993c-c1481042f3bc" Title="Change settings for a Bluetooth enabled device" />
+                        <HelpTOCNode Url="mshelp://windows/?id=22734431-1209-4f94-bf92-2bf255280c88" Title="Choose a COM port for a Bluetooth enabled device" />
+                        <HelpTOCNode Url="mshelp://windows/?id=11a74104-645d-40d4-b933-bde5d15537bb" Title="Add a wireless or network device: frequently asked questions" />
+                    </HelpTOCNode>
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=a4edbacd-3c82-4655-a3b8-661f6556b15c" Title="Sharing and collaborating over a network">
+                <HelpTOCNode Url="mshelp://windows/?id=e20e6875-7210-47bb-bf19-5c60e6ae8615" Title="File sharing essentials" />
+                <HelpTOCNode Url="mshelp://windows/?id=9636e0f2-0223-45d2-89cb-3e317c450905" Title="Share files with someone" />
+                <HelpTOCNode Url="mshelp://windows/?id=17fb415f-a682-41b7-a1ab-db2cd0315ea8" Title="Are shared files and folders secure?" />
+                <HelpTOCNode Url="mshelp://windows/?id=e7f056f4-2500-46ea-97d4-effe9571afa6" Title="Find files and folders on other computers on a network" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=e73a7288-4675-4a76-b5a5-44bb5cad69d5" Title="Keeping network files in sync">
+                <HelpTOCNode Url="mshelp://windows/?id=bfd5e66e-18d3-4234-8315-ffece6f89f9d" Title="What is Sync Center?" />
+                <HelpTOCNode Url="mshelp://windows/?id=f81e5f68-fe32-461b-97c8-22a454dc6b14" Title="Open Sync Center" />
+                <HelpTOCNode Url="mshelp://windows/?id=93a550df-34cd-4497-85d0-8732602f5959" Title="Understanding offline files" />
+                <HelpTOCNode Url="mshelp://windows/?id=02ecf57a-fa36-40be-a5c2-907f51cda1fe" Title="Working with network files when you are offline" />
+                <HelpTOCNode Url="mshelp://windows/?id=f55116de-f0c6-4e3c-b9ed-e981e92c55b0" Title="Sync using Briefcase" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=e00979f4-d994-43fa-bede-f2777daa2052" Title="Sharing an Internet connection">
+                <HelpTOCNode Url="mshelp://windows/?id=22bbe45a-57ef-4292-a603-29ea1bbd2feb" Title="Sharing one Internet connection among several computers" />
+                <HelpTOCNode Url="mshelp://windows/?id=bfd3bd31-82f0-4b9c-9cde-fb92bc2b1477" Title="Using ICS (Internet Connection Sharing)" />
+                <HelpTOCNode Url="mshelp://windows/?id=86095ff9-e0b4-4526-9a3a-ea6545dd1e9e" Title="Set up a shared Internet connection using ICS" />
+                <HelpTOCNode Url="mshelp://windows/?id=0bc25559-ef18-40aa-bd34-f4e04d8c32b6" Title="Change Internet settings for ICS" />
+                <HelpTOCNode Url="mshelp://windows/?id=32f3845b-eda0-4168-be8d-90f07250d810" Title="Enable or disable network discovery" />
+                <HelpTOCNode Url="mshelp://windows/?id=670718ec-7d51-49ed-87f1-b8a98ced11a4" Title="Using Internet Gateway Device Discovery and Control" />
+                <HelpTOCNode Url="mshelp://windows/?id=59610d11-2144-4d1e-bae7-ba17fbdfc550" Title="Change which computer on your network connects to the Internet" />
+                <HelpTOCNode Url="mshelp://windows/?id=f018704d-241f-4cdf-a453-4ae9eb35848e" Title="Disable ICS" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=b1c07177-3fbb-4f12-b539-a7ed5fcdb0fd" Title="Managing a network">
+                <HelpTOCNode Url="mshelp://windows/?id=baab4f1a-2461-482d-bb2e-c996a197e35f" Title="Add a device or computer to a network" />
+                <HelpTOCNode Url="mshelp://windows/?id=ab3103f7-790f-4155-a89c-bc11efc9980c" Title="Add or remove a network protocol, service, or client" />
+                <HelpTOCNode Url="mshelp://windows/?id=663aa456-1719-4db7-a715-448708498326" Title="Using command line tools for networking information" />
+                <HelpTOCNode Url="mshelp://windows/?id=6ddfa83c-01c8-441e-b041-1fd912c3fe60" Title="Choosing a network location" />
+                <HelpTOCNode Url="mshelp://windows/?id=0e5f2e0c-9906-4518-b7c7-d3632105dcad" Title="What is network discovery?" />
+                <HelpTOCNode Url="mshelp://windows/?id=a8a0b9df-9b3d-4396-a0b7-625befd34a34" Title="Working with the Network Connections folder" />
+                <HelpTOCNode Url="mshelp://windows/?id=aed591db-d3c6-44fc-9c51-ea51e749a7a6" Title="Create or modify network profiles" />
+                <HelpTOCNode Url="mshelp://windows/?id=a94a8cb6-fffb-4298-b9cd-290a4b688396" Title="Rename a network connection" />
+                <HelpTOCNode Url="mshelp://windows/?id=e070bf7b-6d5e-4f49-b4f7-10aa8d8b11e2" Title="Change TCP/IP settings" />
+                <HelpTOCNode Url="mshelp://windows/?id=b800399a-ef3c-40d2-913c-0dbc25c8f11d" Title="IPv6: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=68baaef9-3728-4b3c-bf04-3fe9b2a02616" Title="Disconnect your computer from a network or network drive" />
+                <HelpTOCNode Url="mshelp://windows/?id=903ecf6c-98dc-40a7-993a-2b9d6c4c2a8c" Title="What are &quot;Wake on LAN&quot; capabilities?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=b8452dac-5215-4ae6-94c0-8855bda5e1b3" Title="Troubleshooting network problems">
+                <HelpTOCNode Url="mshelp://windows/?id=e7186ebc-9ada-43bf-abde-2b012d9b2bf4" Title="Open Networking troubleshooters" />
+                <HelpTOCNode Url="mshelp://windows/?id=5d9b5f45-fe8e-4ad0-abcc-bf0f19a83a39" Title="Open the HomeGroup troubleshooter" />
+                <HelpTOCNode Url="mshelp://windows/?id=55033aea-23ef-4cf3-96f5-04fccf025fe6" Title="Identify and resolve home network problems" />
+                <HelpTOCNode Url="mshelp://windows/?id=ca2d0191-299e-4dc3-afab-df5862d460be" Title="Enable or disable a network adapter" />
+                <HelpTOCNode Url="mshelp://windows/?id=132cbbed-a0bc-420d-b325-29c69067f489" Title="How do I prevent my computer from switching between wireless access points?" />
+                <HelpTOCNode Url="mshelp://windows/?id=d89891e5-3655-4b42-8a2b-d31fa9ddb676" Title="How do I prevent my computer from switching between two preferred networks?" />
+                <HelpTOCNode Url="mshelp://windows/?id=85e0e943-5f84-4d94-94f6-b258911d6557" Title="Use Network troubleshooter event logs to solve network problems" />
+                <HelpTOCNode Url="mshelp://windows/?id=f2f2ac63-7f94-4170-848a-564e3a0c8fe5" Title="Turn on detailed error reporting for RPC server errors" />
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=608d4898-a762-40a2-9255-9e8d9680d2e8" Title="Internet — going online and using the web">
+            <HelpTOCNode Url="mshelp://windows/?id=ca76d240-91d8-457d-a5e0-3d91018f61a7" Title="What do I need to connect to the Internet?" />
+            <HelpTOCNode Url="mshelp://windows/?id=c6cf4f16-8427-44ef-8457-18b963296b72" Title="Connect to the Internet" />
+            <HelpTOCNode Url="mshelp://windows/?id=cfd5d891-a474-48f8-8ab9-46cfb0c57dc6" Title="What is an Internet Service Provider (ISP)?" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=6a36222f-537c-492c-b4a4-1aff66f7a476" Title="Setting up an Internet connection">
+                <HelpTOCNode Url="mshelp://windows/?id=ca76d240-91d8-457d-a5e0-3d91018f61a7" Title="What do I need to connect to the Internet?" />
+                <HelpTOCNode Url="mshelp://windows/?id=5b799441-8c08-4336-b9a7-18ffcb2fb41c" Title="What are the different Internet connection methods?" />
+                <HelpTOCNode Url="mshelp://windows/?id=cfd5d891-a474-48f8-8ab9-46cfb0c57dc6" Title="What is an Internet Service Provider (ISP)?" />
+                <HelpTOCNode Url="mshelp://windows/?id=505f21ac-c581-4be6-97a3-b3caf66eda49" Title="Which modem should I use to connect to the Internet?" />
+                <HelpTOCNode Url="mshelp://windows/?id=a7c73c9a-5bb6-4b3a-9a09-d9650c4ed51f" Title="Set up a broadband (DSL or cable) connection" />
+                <HelpTOCNode Url="mshelp://windows/?id=c6cf4f16-8427-44ef-8457-18b963296b72" Title="Connect to the Internet" />
+                <HelpTOCNode Url="mshelp://windows/?id=02b4b3c8-04d2-4923-9e82-411697a92161" Title="Set up a second Internet connection" />
+                <HelpTOCNode Url="mshelp://windows/?id=e10c3a18-28c5-435d-b283-5f86a4e36476" Title="Disconnect from the Internet" />
+                <HelpTOCNode Url="mshelp://windows/?id=aecee057-6a73-44de-a054-ffab75ae6a84" Title="Advanced dial-up settings" />
+                <HelpTOCNode Url="mshelp://windows/?id=0e58c5a2-b21e-4997-b1d7-d78815d45f50" Title="Using ISDN" />
+                <HelpTOCNode Url="mshelp://windows/?id=7dfd755f-a0b7-49fc-b0cd-7a5bf8eb73ba" Title="What are International Domain Names?" />
+                <HelpTOCNode Url="mshelp://windows/?id=835f7bba-684a-46f4-9eda-1b482b21ca5f" Title="DNS (Domain Name System): frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=1e939d24-41a5-4c46-a573-3349e70ffaf8" Title="What is Internet Small Computer System Interface (iSCSI)?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=4ff03efa-7f0a-4b97-bdac-32438d524ae2" Title="Connecting to the Internet with mobile broadband">
+                <HelpTOCNode Url="mshelp://windows/?id=60671a02-7827-40c4-a66f-f1f2c0a28c30" Title="What is mobile broadband?" />
+                <HelpTOCNode Url="mshelp://windows/?id=3b047c44-4464-48f5-a87a-b93bac4303c9" Title="Mobile broadband: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=9416e43e-1b76-45bc-b6d0-71b6f97323fe" Title="Use mobile broadband to connect to the Internet" />
+                <HelpTOCNode Url="mshelp://windows/?id=bb9dff6a-11fb-455e-bd2d-78831c1bce1b" Title="Enable, disable, or change a mobile broadband PIN" />
+                <HelpTOCNode Url="mshelp://windows/?id=7c83cb22-a566-45cb-a75c-93f389e15e89" Title="Unlock or unblock your mobile broadband connection" />
+                <HelpTOCNode Url="mshelp://windows/?id=c50ee9e3-0537-485a-afd8-8a6d80813b7e" Title="Why can’t I connect or browse using my mobile broadband connection?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=1460bf0e-219e-48c5-8d76-4b35e5831e3b" Title="Browsing the web with Internet Explorer">
+                <HelpTOCNode Url="mshelp://windows/?id=e60d9b00-c3c6-4735-8b53-c79e697d1925" Title="Internet Explorer at a glance" />
+                <HelpTOCNode Url="mshelp://windows/?id=6553df0e-c42b-4f47-8376-7e76950e8f24" Title="Internet Explorer Pop-up Blocker: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=b3bb91fc-75e3-4d3b-99eb-3fce65e75501" Title="Tabs, Accelerators, and InPrivate Browsing: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=0f7dbe26-4386-4d31-8e35-e89eb1e3de29" Title="Getting started">
+                    <HelpTOCNode Url="mshelp://windows/?id=e8b4da9d-0f2e-4f30-8e7f-a87f8c4d63a4" Title="Open Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=32d181ae-9aea-4e83-9126-3cfaaf517056" Title="Tips for searching the Internet" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7910bd74-cc83-475d-8e5d-291e793afd6e" Title="Tabbed browsing: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=3d72ad13-4031-41db-af23-7f60dbb96b4f" Title="Using Quick Tabs" />
+                    <HelpTOCNode Url="mshelp://windows/?id=16ee1fa9-60ab-4c1b-9b35-15b59a142f43" Title="How to know if an online transaction is secure" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fe9dd907-64c1-414e-8e51-0890dada5fde" Title="Using Accelerators to find addresses, define words, and do other tasks with selected text" />
+                    <HelpTOCNode Url="mshelp://windows/?id=dc8f362a-816c-4c4a-ac87-be403e0f1128" Title="Web Slices: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=24fb4846-1fb9-4237-a1df-5caed0895271" Title="Suggested Sites: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=ad2aeba2-1f47-4349-9642-da071d4b0a7c" Title="Find a file you have downloaded" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d070afb2-09ee-4f69-93ea-afea2e7f12e5" Title="Using RSS feeds" />
+                    <HelpTOCNode Url="mshelp://windows/?id=cef14e8d-ff44-4738-a85a-5c6aa0b7dfbf" Title="Save a webpage as a file" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d08a42c6-d29c-4f4d-8bfb-3996ef9067a4" Title="Preview the appearance of a printed webpage in Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a7a14db1-f0ce-40b0-a8ee-3c2df2ffd812" Title="Internet Explorer Information bar: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=325ee5a0-0fd5-4661-9c02-a6ed5be7de9e" Title="Internet Explorer browser settings" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fc0bfaaf-3e4c-493a-a7dd-04553f098dfb" Title="Use Speech Recognition to browse the Internet" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=e59ae81a-b5fb-4d42-bbd0-e2d6cad65ff0" Title="Finding information on the Internet">
+                    <HelpTOCNode Url="mshelp://windows/?id=32d181ae-9aea-4e83-9126-3cfaaf517056" Title="Tips for searching the Internet" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d8dd26e8-e4ea-4401-bbbf-e484523b9558" Title="Find recently visited webpages" />
+                    <HelpTOCNode Url="mshelp://windows/?id=78e85c0d-ff1f-4eac-b1b2-a1443d60fcb9" Title="Change or choose a search provider in Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=1849bced-c999-4705-a682-83ee685e689f" Title="What happened to Search Assistant?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=4e72b6fb-b9ec-45f0-9263-bceb34f47e52" Title="Fill in website forms and passwords automatically" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=764c7eae-ae4c-4c9a-bde8-12def6b3c84c" Title="Security and privacy in Internet Explorer">
+                    <HelpTOCNode Url="mshelp://windows/?id=05f9cbff-d286-40f0-92e0-b17eb1790504" Title="Security and privacy features in Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=dbd3b48a-4244-4dd6-9aba-546cdbd2ad21" Title="InPrivate: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d3152e58-c209-4313-829d-04022af532cc" Title="What is InPrivate Browsing?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=22ee7c6c-41ff-4311-bedc-0b29f4a0e6b8" Title="Web browsing and security: recommended links" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fd277a6b-3722-445b-b32e-1f8e925c385a" Title="Security zones: adding or removing websites" />
+                    <HelpTOCNode Url="mshelp://windows/?tocid=c2f92a24-0523-40c7-825c-e8c08895dd16" Title="Basics of Internet security">
+                        <HelpTOCNode Url="mshelp://windows/?id=16ee1fa9-60ab-4c1b-9b35-15b59a142f43" Title="How to know if an online transaction is secure" />
+                        <HelpTOCNode Url="mshelp://windows/?id=5f69fdfb-9a4a-4370-90ac-ddb2d7a1761b" Title="Delete webpage history" />
+                        <HelpTOCNode Url="mshelp://windows/?id=5ccf80fe-2a5b-43fa-a1a8-411190fdb6c2" Title="Delete AutoComplete saved information" />
+                        <HelpTOCNode Url="mshelp://windows/?id=dfe83943-3394-48fb-8a4b-406f0b479c33" Title="When to trust a website" />
+                        <HelpTOCNode Url="mshelp://windows/?id=dbb33ff0-aa2e-4332-ac45-a9c68caf379c" Title="When to trust an e-mail message" />
+                        <HelpTOCNode Url="mshelp://windows/?id=9d7dc68d-6b48-4b8d-ae7f-2699b06537b2" Title="When to trust a software publisher" />
+                        <HelpTOCNode Url="mshelp://windows/?id=6b046ae9-1434-4423-9303-400ff6fe686b" Title="Downloading files from the Internet: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e58c50b5-3ec4-47d2-9171-05cb5187d9a7" Title="Recognizing dangerous file types" />
+                        <HelpTOCNode Url="mshelp://windows/?id=077238d3-2e78-4655-872c-6d5946284011" Title="What is a digital signature?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=ddfa63ef-15bd-44fd-82e3-cb6eb5f5252a" Title="Get information about Secure Sockets Layer (SSL) certificates" />
+                        <HelpTOCNode Url="mshelp://windows/?id=95211ecc-19b5-439a-b6c5-e2aefd801303" Title="What does Internet Explorer protected mode do?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=53f6882f-335b-45e8-9578-ce9264ec665c" Title="Online privacy and security: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=39205f9c-2daa-4e60-b90a-7df3c47304be" Title="Cookies: recommended links" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=6545ce2f-7a37-40b9-8a37-b82b1e7ce091" Title="Windows Firewall">
+                        <HelpTOCNode Url="mshelp://windows/?id=4673a386-2e73-4b7a-a333-6f826a3d44b4" Title="What is a firewall?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=05eee553-6a90-456a-b9e5-fcb423390543" Title="Windows Firewall: recommended links" />
+                        <HelpTOCNode Url="mshelp://windows/?id=bfe523a9-7eec-4d3f-add1-2f68b9cfa1c0" Title="Turn Windows Firewall on or off" />
+                        <HelpTOCNode Url="mshelp://windows/?id=f12788e4-8405-4cc2-b363-b76b71b01a20" Title="What are the risks of allowing programs through a firewall?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=4da18300-9044-47b6-9038-595c78db81ab" Title="Open a port in Windows Firewall" />
+                        <HelpTOCNode Url="mshelp://windows/?id=230d8c47-ee63-47e1-a1f6-a1d38b07dbee" Title="Understanding Windows Firewall settings" />
+                        <HelpTOCNode Url="mshelp://windows/?id=2140d623-08b5-4356-bb9a-4438a04296ce" Title="Firewall: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=32f3845b-eda0-4168-be8d-90f07250d810" Title="Enable or disable network discovery" />
+                        <HelpTOCNode Url="mshelp://windows/?id=d1d9dca9-7fef-47a0-ab40-39c634a4c432" Title="Restore Windows Firewall settings" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=ff68c1b9-ac02-4a32-9446-b2afeeac1639" Title="Phishing, viruses, and other Internet threats">
+                        <HelpTOCNode Url="mshelp://windows/?id=cee1b442-c962-44b1-81e5-2a20e97de454" Title="What is phishing?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=a9344397-aea3-41e9-896f-518709345309" Title="What happened to Phishing Filter?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=925e9035-18dd-4adf-9dc3-59df959ae046" Title="How does SmartScreen Filter help protect my computer from malicious or phishing websites?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=184c6038-7eb1-4ca3-b50d-7901d81c3785" Title="SmartScreen Filter: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=298235da-e8c9-43be-b42c-9278c6de25c2" Title="Viruses: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=84d299ce-216c-4473-aa62-374c52455007" Title="Spyware: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=1154af45-f28e-4de4-949d-bc5fa8d204a8" Title="How can I help protect my computer from viruses?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=31645183-962a-45b6-a121-f95e26c510bd" Title="How can I tell if my computer has a virus?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=5c08774a-6602-490d-ba33-faed5c893991" Title="How do I remove a computer virus?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=af5fed9f-994f-41eb-8ae0-98cce36a110f" Title="Remove spyware from your computer" />
+                        <HelpTOCNode Url="mshelp://windows/?id=7dfd755f-a0b7-49fc-b0cd-7a5bf8eb73ba" Title="What are International Domain Names?" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=766b3404-0562-49ae-8aaf-88a37665aaa8" Title="Control inappropriate Internet content">
+                        <HelpTOCNode Url="mshelp://windows/?id=70045919-d140-449e-ba32-31b96286b6a0" Title="Using Content Advisor to help block inappropriate web content" />
+                        <HelpTOCNode Url="mshelp://windows/?id=84136abf-bf3f-43c2-a3ca-a72a17f97895" Title="Internet Explorer Content Advisor: frequently asked questions" />
+                    </HelpTOCNode>
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=21dcfc1e-8471-483b-a81a-a25d67925c7f" Title="Making Internet Explorer more accessible">
+                    <HelpTOCNode Url="mshelp://windows/?id=52271e90-169a-41be-917f-673bd9004c6b" Title="Internet Explorer accessibility options" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b987696b-1e4a-4f6d-bd2b-7b643a29ab53" Title="Making Internet Explorer more accessible" />
+                    <HelpTOCNode Url="mshelp://windows/?id=4ea782db-49e3-4a6a-85cb-f3af223cd25c" Title="Change webpage text size in Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=ad00d97d-c566-4966-9818-82c513a49c95" Title="Zoom in on a webpage" />
+                    <HelpTOCNode Url="mshelp://windows/?id=223e800a-c5a3-435c-aa65-0c3710cf0d4f" Title="Internet Explorer keyboard shortcuts" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d49f8d04-50d9-4345-956f-3b2521970e31" Title="Change the colors and fonts used for webpages" />
+                    <HelpTOCNode Url="mshelp://windows/?id=f714be8d-a034-4b71-a598-69de4359795c" Title="Use your own style sheet to format webpages" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7e271a96-d8da-4b74-b6ca-6e1bab7dcfaa" Title="How can I select text and move around a webpage with my keyboard?" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=54bdb9c3-39c6-4704-a577-e3a12937616f" Title="Managing favorites in Internet Explorer">
+                    <HelpTOCNode Url="mshelp://windows/?id=183d1c79-4d70-4a05-9948-6eb9dd2a5a6b" Title="Internet favorites: recommended links" />
+                    <HelpTOCNode Url="mshelp://windows/?id=060bdc3d-aa01-4d03-8822-852d8cc1357f" Title="Back up your home page or home page tabs" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=b0221e0c-1255-4c5a-a73f-b1a0dea3537e" Title="Customize Internet Explorer">
+                    <HelpTOCNode Url="mshelp://windows/?id=6e2d0272-8e1c-43bb-a8c2-e115e0def376" Title="Change your default web browser" />
+                    <HelpTOCNode Url="mshelp://windows/?id=2d73b4a3-3806-46c4-9195-d492e6f6b428" Title="Change your Internet Explorer home page" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b3bedce8-4c48-4dd4-9ad1-59b81b80abed" Title="Reorganize your home page tabs" />
+                    <HelpTOCNode Url="mshelp://windows/?id=060bdc3d-aa01-4d03-8822-852d8cc1357f" Title="Back up your home page or home page tabs" />
+                    <HelpTOCNode Url="mshelp://windows/?id=59670d48-c174-4cf5-bcdb-b58c2b465864" Title="Delete a home page" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fbdd2c31-bbff-42d2-8f67-79a52f80b35c" Title="Customize the toolbars" />
+                    <HelpTOCNode Url="mshelp://windows/?id=eb5ad6b5-a339-4746-b5d8-12824d447dfc" Title="Show or hide the Favorites bar in Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=609e553d-2dd0-44c8-ac31-0e9eee4be720" Title="Change the number of days that webpages are kept in the browsing history" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d6576c88-2137-42b5-a154-ce21e60ed044" Title="Show the menus in Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7b4a0825-28e2-4929-82f6-1feac4adb6f3" Title="Change your Internet Explorer language settings" />
+                    <HelpTOCNode Url="mshelp://windows/?id=9cf3477e-2a6e-4c18-bf42-4ce760e952a9" Title="Changing intranet security settings" />
+                    <HelpTOCNode Url="mshelp://windows/?id=828bea28-cb16-4da2-beac-571938a9f873" Title="Open a new tab to your home page in Internet Explorer" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=c1828d0a-9a52-4cf7-a038-3e5b825608b2" Title="Managing add-ons and ActiveX controls">
+                    <HelpTOCNode Url="mshelp://windows/?id=c185161e-3416-4194-9a2f-4924ea896f05" Title="Should I install ActiveX controls?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8ceec222-aa8a-401a-8da5-d9267a978ba7" Title="How do browser add-ons affect my computer?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e85a03aa-c7c6-428e-9891-67ea76df9b7e" Title="Internet Explorer add-ons: frequently asked questions" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=20fe0a2f-1e09-4f6d-acbb-20ffb1b86360" Title="Update Internet Explorer">
+                    <HelpTOCNode Url="mshelp://windows/?id=42cc945f-3b34-4396-9322-eec2dfa859fe" Title="Find out which version of Internet Explorer you're using" />
+                    <HelpTOCNode Url="mshelp://windows/?id=9c43ed69-4dfa-477e-a6bc-e1023476b198" Title="Update Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8f259118-0d61-4c7a-8c56-24987e87a817" Title="Install Windows updates" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=8d06d2b6-7c25-492c-8020-dc11d2fb4efc" Title="Working with Internet Explorer settings">
+                    <HelpTOCNode Url="mshelp://windows/?id=ff6cc789-e857-439d-a384-08bfa4535427" Title="Reset Internet Explorer settings" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a64cd1a8-6a5e-4ef9-8b27-dc4a3e16cfcc" Title="Internet Explorer Connections settings: recommended links" />
+                    <HelpTOCNode Url="mshelp://windows/?id=59670d48-c174-4cf5-bcdb-b58c2b465864" Title="Delete a home page" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fd277a6b-3722-445b-b32e-1f8e925c385a" Title="Security zones: adding or removing websites" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=fb9a6aac-538c-4bbb-bdc3-ad2ef5b4846a" Title="Troubleshooting Internet Explorer problems">
+                    <HelpTOCNode Url="mshelp://windows/?id=8038f9ac-9bf9-4809-8d75-fc42818d8af7" Title="Tips for solving problems with Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7a247d72-e6b4-4ac7-98cb-b71b61f0611a" Title="Open the Internet Explorer Performance troubleshooter" />
+                    <HelpTOCNode Url="mshelp://windows/?id=bafaac57-8a52-41fa-bba8-128a306ed17e" Title="Open the Internet Explorer Safety troubleshooter" />
+                    <HelpTOCNode Url="mshelp://windows/?id=ff6cc789-e857-439d-a384-08bfa4535427" Title="Reset Internet Explorer settings" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d9e08acd-9eac-4af8-a4d3-9c6d9e7d5a7a" Title="Why is my Internet connection so slow?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=12a70ae8-aa89-4c31-8e57-62bc239172c8" Title="Temporary Internet files: recommended links" />
+                    <HelpTOCNode Url="mshelp://windows/?id=692c61c7-67fd-4653-9a26-22d8b67ef7a1" Title="What should you do about Internet Explorer script errors?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fbbb222b-5397-44a0-81a9-8384130cba9c" Title="Get help with website error messages (HTTP errors)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=064af181-10b3-49e7-9eb6-ba3f07d88803" Title="About certificate errors in Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c6fab82b-b2c8-474e-a555-9d5215590de4" Title="View the source code for a webpage" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7ced6d16-fb98-475f-aaca-87f820b3a987" Title="What is a proxy server?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=59c3a93d-1342-43a6-a01a-f720c7a17ffc" Title="Install Java in Internet Explorer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c0890300-1059-4d96-b124-fab30c8c24ed" Title="Why does Internet Explorer block some file downloads?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b76eb54e-3ff9-4b80-b160-59b69e6fc216" Title="Why does Internet Explorer block some ActiveX controls?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=477cf608-0145-480b-b83e-f862fc937338" Title="Why does Internet Explorer restrict some file content?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5a80b376-ef4e-44a8-8aad-b79220549a2c" Title="What is active content and why does Internet Explorer restrict it?" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=c5a63ef9-9586-4dd4-afd7-044fda2a72bc" Title="Troubleshooting Internet connection problems">
+                <HelpTOCNode Url="mshelp://windows/?id=d9e08acd-9eac-4af8-a4d3-9c6d9e7d5a7a" Title="Why is my Internet connection so slow?" />
+                <HelpTOCNode Url="mshelp://windows/?id=e10c3a18-28c5-435d-b283-5f86a4e36476" Title="Disconnect from the Internet" />
+                <HelpTOCNode Url="mshelp://windows/?id=fbbb222b-5397-44a0-81a9-8384130cba9c" Title="Get help with website error messages (HTTP errors)" />
+                <HelpTOCNode Url="mshelp://windows/?id=835f7bba-684a-46f4-9eda-1b482b21ca5f" Title="DNS (Domain Name System): frequently asked questions" />
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=bbe63356-c541-4104-b3b4-0118e7e4c13e" Title="E-mail and other communications">
+            <HelpTOCNode Url="mshelp://windows/?id=645b0e95-2985-484c-b819-4331ba14b68b" Title="Getting started with e-mail" />
+            <HelpTOCNode Url="mshelp://windows/?id=f6e5586e-dd35-4677-a4c1-77ed6f287b83" Title="Send pictures in e-mail" />
+            <HelpTOCNode Url="mshelp://windows/?id=49b9f100-92fd-418c-aa04-9c0d575a19a3" Title="What happened to Outlook Express?" />
+            <HelpTOCNode Url="mshelp://windows/?id=e4875666-8c43-4db5-ab0f-2eb7377ae330" Title="What happened to Windows Mail?" />
+            <HelpTOCNode Url="mshelp://windows/?id=dbb33ff0-aa2e-4332-ac45-a9c68caf379c" Title="When to trust an e-mail message" />
+            <HelpTOCNode Url="mshelp://windows/?id=03afe9f7-731d-40cc-825b-4e6f5745d83a" Title="What happened to the Internet Explorer Mail button?" />
+            <HelpTOCNode Url="mshelp://windows/?id=66a5a63f-1d72-4594-96da-78d57f04852a" Title="What is a digital ID and how do I get one?" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=031e2d62-d6ae-4246-9ddb-c225fa76fd07" Title="Windows Contacts (address book)">
+                <HelpTOCNode Url="mshelp://windows/?id=26ce0593-f146-454e-92a2-5fe1107da4b0" Title="Managing your contacts" />
+                <HelpTOCNode Url="mshelp://windows/?id=21f6feb6-5774-44b0-9580-d6f9950c7170" Title="What happened to Windows Address Book?" />
+                <HelpTOCNode Url="mshelp://windows/?id=65fbffa9-0ba5-45d8-a60f-ded4e86f01de" Title="Import, export, or change the format for contacts" />
+                <HelpTOCNode Url="mshelp://windows/?id=331d2a68-5c2c-4a2c-a5ef-d68979b945de" Title="Create contact groups (mailing lists)" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=03a8d68a-eba2-4bcf-900b-77e6c5b95150" Title="Instant messages">
+                <HelpTOCNode Url="mshelp://windows/?id=15606537-986d-48f5-a602-264b409743a2" Title="Send and receive instant messages" />
+                <HelpTOCNode Url="mshelp://windows/?id=378540ed-3761-4048-918b-256ea0978a9b" Title="What happened to Windows Messenger?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=c8fbb359-c4da-4ab3-9b19-888613a40526" Title="Feeds (RSS)">
+                <HelpTOCNode Url="mshelp://windows/?id=fbb716b2-4bd7-4eaa-85fe-3448cec8fed5" Title="What is a feed (RSS)?" />
+                <HelpTOCNode Url="mshelp://windows/?id=ca497374-0a80-49dd-922f-21d217816b80" Title="Discover a feed" />
+                <HelpTOCNode Url="mshelp://windows/?id=d070afb2-09ee-4f69-93ea-afea2e7f12e5" Title="Using RSS feeds" />
+                <HelpTOCNode Url="mshelp://windows/?id=cebbdc80-5674-41b3-a6ff-181b9e2164ab" Title="Import and export RSS feeds in Internet Explorer" />
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=e29f8510-801e-4771-96d5-86fc7a68633f" Title="Files, folders, and libraries">
+            <HelpTOCNode Url="mshelp://windows/?id=b8f62a7d-381a-4253-a52e-04883e076bbe" Title="Working with files and folders" />
+            <HelpTOCNode Url="mshelp://windows/?id=54817fb8-dd3d-4b9e-8c7d-3333305b2a8b" Title="Working with libraries" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=7ad24ee3-0dd7-4f10-a882-7eb5b7e3e4c0" Title="Using files and programs">
+                <HelpTOCNode Url="mshelp://windows/?id=9df6a9db-68c1-479f-9a32-55d93cba66fb" Title="Select multiple files or folders" />
+                <HelpTOCNode Url="mshelp://windows/?id=7050d809-c761-43d4-aae7-587550cd341a" Title="Compress and uncompress files (zip files)" />
+                <HelpTOCNode Url="mshelp://windows/?id=c77ac2c9-3566-4519-ad90-80f481241d0b" Title="Create or delete a shortcut" />
+                <HelpTOCNode Url="mshelp://windows/?id=1eb616b7-d73b-4d8c-af3b-39f731b917a2" Title="What is a system file?" />
+                <HelpTOCNode Url="mshelp://windows/?id=0a9cf947-6cd4-4480-be7d-a76f755f68ff" Title="Use Speech Recognition to work with folders and files" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=b2ae2ce7-9d34-482b-91fe-5ad1ba85334e" Title="Creating, opening, and saving">
+                <HelpTOCNode Url="mshelp://windows/?id=febf21e0-aa8b-49bd-b620-def5cd27c304" Title="Create a new library" />
+                <HelpTOCNode Url="mshelp://windows/?id=4acdd443-52ac-4c94-9c52-a3c9ac672642" Title="Create a new folder" />
+                <HelpTOCNode Url="mshelp://windows/?id=7c2273a1-19a8-4596-9f8f-3f238fb2a102" Title="Rename a file" />
+                <HelpTOCNode Url="mshelp://windows/?id=0cd11bc8-617a-4d2f-9ec4-1850e7c10e97" Title="Save a file" />
+                <HelpTOCNode Url="mshelp://windows/?id=046bae5b-44ba-4fd0-8c16-abd20ce6ee70" Title="Open a file or folder" />
+                <HelpTOCNode Url="mshelp://windows/?id=fc9c8319-2b6f-40cc-8dd6-e6797a92ab9c" Title="Change the program that opens a type of file" />
+                <HelpTOCNode Url="mshelp://windows/?id=31ad4562-aee7-4fed-8316-89114dc97303" Title="How do I open a file if I get an access denied message?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=342b1d57-2537-45d0-b43f-ff7ca935df01" Title="Searching and organizing">
+                <HelpTOCNode Url="mshelp://windows/?tocid=5365e8db-86b8-4ba8-ae1b-d8f5bd09ff40" Title="Searching and search options">
+                    <HelpTOCNode Url="mshelp://windows/?id=ed53ade7-cfb8-425a-841d-6a6aa6991dfe" Title="Find a file or folder" />
+                    <HelpTOCNode Url="mshelp://windows/?id=56cdc9d9-597e-4ea5-bd62-24eb8abaafa3" Title="Searching in Windows: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=50fdc72f-3274-4a53-ad84-c82c71a320cf" Title="Save a search" />
+                    <HelpTOCNode Url="mshelp://windows/?id=68dd14f2-a9cb-4134-a076-b8abb011a1f6" Title="Improve Windows searches using the index: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7ef664a7-395c-4cb3-9178-deb08ed4df2c" Title="Change advanced indexing options" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=c4f1b296-f83f-443b-a46d-95db34dc0b82" Title="Using libraries to organize files">
+                    <HelpTOCNode Url="mshelp://windows/?id=54817fb8-dd3d-4b9e-8c7d-3333305b2a8b" Title="Working with libraries" />
+                    <HelpTOCNode Url="mshelp://windows/?id=1bded105-9107-4987-adc0-a9132a619798" Title="Include folders in a library" />
+                    <HelpTOCNode Url="mshelp://windows/?id=86d93fe4-d1be-409c-bad1-505fc6eef134" Title="Customize a library" />
+                    <HelpTOCNode Url="mshelp://windows/?id=0c6ccc80-7c10-4cf4-a351-a0321b12fc78" Title="Libraries: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=febf21e0-aa8b-49bd-b620-def5cd27c304" Title="Create a new library" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a8c0f805-ee8a-4069-b0a3-f3caedd07d99" Title="Managing your documents" />
+                    <HelpTOCNode Url="mshelp://windows/?id=50fdc72f-3274-4a53-ad84-c82c71a320cf" Title="Save a search" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=e0fa5a34-45cc-49f9-9d08-b13f26f5d252" Title="Viewing files and folders">
+                    <HelpTOCNode Url="mshelp://windows/?id=3a3bfe59-5268-4fb3-81c5-7972c28939cd" Title="Change folder options" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8b0b5b04-d31a-41c9-9599-a5165ce1b06d" Title="Change thumbnail size and file details" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d4040ef3-f24d-44e5-b5fe-244ab61585e1" Title="Working with the navigation pane" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8eb3b0f8-533a-4e63-b967-b090a7912cc7" Title="Folders: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=ddd07224-70eb-4078-bb9b-ecc90d00ee57" Title="Navigate using the address bar" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a9f42cc1-d0a1-417f-b084-164a00b1bd14" Title="Tag pictures so they're easier to find" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=86b58f78-c6ae-4287-a92f-be6804bd2aed" Title="Copying">
+                <HelpTOCNode Url="mshelp://windows/?id=913a0e91-23af-4b4e-9f9e-455f85739a33" Title="Copy and paste a file" />
+                <HelpTOCNode Url="mshelp://windows/?id=6fc8f2c3-b86d-4e3a-b538-c02658657dba" Title="Copy information between files" />
+                <HelpTOCNode Url="mshelp://windows/?id=737f8771-5635-4651-809f-96301752d2d9" Title="Copy and paste from a remote computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=25321eef-74f9-4ccf-9c86-b3c9cad2e532" Title="What is Clipboard?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=2e854083-49db-4725-95b1-416d8da0b0c4" Title="Backing up and restoring">
+                <HelpTOCNode Url="mshelp://windows/?tocid=ec57b112-d408-4ab2-bee6-0e80d1910281" Title="Backing up files">
+                    <HelpTOCNode Url="mshelp://windows/?id=9eb3d150-fe33-41a0-b7f6-233d7fe4460a" Title="Back up and restore: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=699ce30c-13f1-46ec-9684-e84bf4109dd8" Title="Back up your files" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=ddbe5ffe-4ae5-42c9-b127-90f239770452" Title="Restoring files">
+                    <HelpTOCNode Url="mshelp://windows/?id=5e1789f5-2f20-4cb5-8d6e-5b2d8670731f" Title="Recover lost or deleted files" />
+                    <HelpTOCNode Url="mshelp://windows/?id=55e35b7f-58ab-409b-997c-bcc81d64c427" Title="Restore files from a backup" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fe1e050f-f279-4404-b895-c34b5c539859" Title="Recover files from the Recycle Bin" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=a24177e8-773d-4698-aa85-42613c58638b" Title="Deleting">
+                <HelpTOCNode Url="mshelp://windows/?id=79607f51-a427-4ae2-90cf-5c1b8c68534e" Title="Delete a file or folder" />
+                <HelpTOCNode Url="mshelp://windows/?id=1264bc24-72a8-48aa-84e3-a355327139d9" Title="Delete files using Disk Cleanup" />
+                <HelpTOCNode Url="mshelp://windows/?id=5e1789f5-2f20-4cb5-8d6e-5b2d8670731f" Title="Recover lost or deleted files" />
+                <HelpTOCNode Url="mshelp://windows/?id=47b3ce2b-3aec-401d-8be3-74434a199983" Title="Why can't I delete a file or folder?" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=ed41a8f6-b163-4ca1-bd38-c59811443de2" Title="Using the Recycle Bin">
+                    <HelpTOCNode Url="mshelp://windows/?id=fe1e050f-f279-4404-b895-c34b5c539859" Title="Recover files from the Recycle Bin" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6ca995d0-28d8-42b4-ba2c-db34c00e2017" Title="Permanently delete files from the Recycle Bin" />
+                    <HelpTOCNode Url="mshelp://windows/?id=0c836d77-24ee-45e2-95f8-abe9a0b1f0ba" Title="Show or hide the Recycle Bin" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=91660a43-f5df-4757-88db-2f135b8248df" Title="Keeping files in sync">
+                <HelpTOCNode Url="mshelp://windows/?id=f55116de-f0c6-4e3c-b9ed-e981e92c55b0" Title="Sync using Briefcase" />
+                <HelpTOCNode Url="mshelp://windows/?id=bfd5e66e-18d3-4234-8315-ffece6f89f9d" Title="What is Sync Center?" />
+                <HelpTOCNode Url="mshelp://windows/?id=f81e5f68-fe32-461b-97c8-22a454dc6b14" Title="Open Sync Center" />
+                <HelpTOCNode Url="mshelp://windows/?id=93a550df-34cd-4497-85d0-8732602f5959" Title="Understanding offline files" />
+                <HelpTOCNode Url="mshelp://windows/?id=02ecf57a-fa36-40be-a5c2-907f51cda1fe" Title="Working with network files when you are offline" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=f8d49ecd-f912-46d7-992b-2e8145b4cb65" Title="Managing access">
+                <HelpTOCNode Url="mshelp://windows/?id=93e008e4-929c-4904-ab54-65f5a40fe7fa" Title="Can I protect files or folders with a password?" />
+                <HelpTOCNode Url="mshelp://windows/?id=95e58140-dd10-4e60-9cf6-363ccb637781" Title="Prevent changes to a file by setting it to read-only" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=d8abbe2b-e0c4-4845-9a6b-8e5a02e6e067" Title="Hiding and showing files">
+                    <HelpTOCNode Url="mshelp://windows/?id=d26819e3-b258-4589-881c-09fefd424cbe" Title="What is a hidden file?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=27e9a81a-fac7-457f-896b-e0017a04a59f" Title="Show hidden files" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=548536e5-7487-4ca1-9632-8f4d2269e6f9" Title="File and folder permissions">
+                    <HelpTOCNode Url="mshelp://windows/?id=bd8ef786-c1f1-49ef-85c8-5895f5ee1378" Title="What are permissions?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7eccafae-4771-43d2-b19a-f4523f61babc" Title="What to know before applying permissions to a file or folder" />
+                    <HelpTOCNode Url="mshelp://windows/?id=495a9f1d-d6f2-4646-ac42-26ce3d298198" Title="Why is the Security tab missing from my file and folder properties?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=17fb415f-a682-41b7-a1ab-db2cd0315ea8" Title="Are shared files and folders secure?" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=ee0c9183-8bbd-4ab4-bfd2-9b3206742f86" Title="Encryption">
+                    <HelpTOCNode Url="mshelp://windows/?tocid=d4f89da6-e303-4c61-8e20-4808736866a5" Title="Understanding encryption">
+                        <HelpTOCNode Url="mshelp://windows/?id=f219e5c8-b97b-469a-8dc3-d1791fa6386c" Title="What is encryption?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e895bd18-36e5-4229-8424-dff307b155c2" Title="What is Encrypting File System (EFS)?" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=18af1278-9d10-4335-b718-e39052211dfc" Title="Using encryption">
+                        <HelpTOCNode Url="mshelp://windows/?id=4121b78c-9cb0-4715-93ec-80ba841670a3" Title="Back up Encrypting File System (EFS) certificate" />
+                        <HelpTOCNode Url="mshelp://windows/?id=196e3453-e553-4af3-8220-bdee6e60148c" Title="Use a smart card for file encryption" />
+                        <HelpTOCNode Url="mshelp://windows/?id=67bc0494-9a42-4c8a-88fd-6fa4c9c4c498" Title="What to do if you lose your file encryption key" />
+                        <HelpTOCNode Url="mshelp://windows/?id=2bfc10ba-0869-47cd-9fb2-aee51a8a375a" Title="Recover encrypted files or folders" />
+                        <HelpTOCNode Url="mshelp://windows/?id=90cdd1fe-9cbb-4adc-bccf-7d613425e15e" Title="Create a recovery certificate for encrypted files" />
+                        <HelpTOCNode Url="mshelp://windows/?id=31ad4562-aee7-4fed-8316-89114dc97303" Title="How do I open a file if I get an access denied message?" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=a0b34873-4c75-410a-bfc0-2b5935a73b0d" Title="Understanding certificates and keys">
+                        <HelpTOCNode Url="mshelp://windows/?id=85d1a658-27cd-4749-a41d-3e6ef3eb268b" Title="Certificates: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=9a07a27f-3406-4af5-856b-a412b3865e67" Title="What is Advanced Encryption Standard (AES)?" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=79aaed21-41e5-4cab-a5e9-a703529c609d" Title="Using certificates and keys">
+                        <HelpTOCNode Url="mshelp://windows/?id=a57a997d-cad4-4b95-84b1-efb3ede7cd52" Title="Import or export certificates and private keys" />
+                        <HelpTOCNode Url="mshelp://windows/?id=f535eea3-1bdd-46ca-a2fc-a6655939b7e8" Title="Request or renew a certificate" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e1fd6af3-8bd6-4e44-8b62-46d5c8995b29" Title="View or manage your certificates" />
+                        <HelpTOCNode Url="mshelp://windows/?id=4121b78c-9cb0-4715-93ec-80ba841670a3" Title="Back up Encrypting File System (EFS) certificate" />
+                        <HelpTOCNode Url="mshelp://windows/?id=90cdd1fe-9cbb-4adc-bccf-7d613425e15e" Title="Create a recovery certificate for encrypted files" />
+                        <HelpTOCNode Url="mshelp://windows/?id=67bc0494-9a42-4c8a-88fd-6fa4c9c4c498" Title="What to do if you lose your file encryption key" />
+                    </HelpTOCNode>
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=43ed80b2-e1b0-4e1d-9e2a-f6464d344fa6" Title="XPS documents">
+                    <HelpTOCNode Url="mshelp://windows/?id=78e3c1ae-c2cc-49cd-b1aa-c6a56b7b0ab0" Title="What is the XPS Viewer?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=3847e058-6e00-43e7-b642-3a2eed063c23" Title="Print to the Microsoft XPS Document Writer" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=6759c193-130a-4bb7-a793-799bd1e33947" Title="Sharing">
+                <HelpTOCNode Url="mshelp://windows/?id=e20e6875-7210-47bb-bf19-5c60e6ae8615" Title="File sharing essentials" />
+                <HelpTOCNode Url="mshelp://windows/?id=9636e0f2-0223-45d2-89cb-3e317c450905" Title="Share files with someone" />
+                <HelpTOCNode Url="mshelp://windows/?id=f6e5586e-dd35-4677-a4c1-77ed6f287b83" Title="Send pictures in e-mail" />
+                <HelpTOCNode Url="mshelp://windows/?id=17fb415f-a682-41b7-a1ab-db2cd0315ea8" Title="Are shared files and folders secure?" />
+                <HelpTOCNode Url="mshelp://windows/?id=e22989d0-ec84-44ff-bc4c-7b8c3d15dba1" Title="Send or receive a file using an infrared connection" />
+                <HelpTOCNode Url="mshelp://windows/?id=0e5f2e0c-9906-4518-b7c7-d3632105dcad" Title="What is network discovery?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=9fa40523-8290-4208-b30e-9d2b362adb03" Title="Troubleshooting file and folder problems">
+                <HelpTOCNode Url="mshelp://windows/?id=5e1789f5-2f20-4cb5-8d6e-5b2d8670731f" Title="Recover lost or deleted files" />
+                <HelpTOCNode Url="mshelp://windows/?id=1264bc24-72a8-48aa-84e3-a355327139d9" Title="Delete files using Disk Cleanup" />
+                <HelpTOCNode Url="mshelp://windows/?id=2344627d-4d03-437d-b17b-6ee696a9b108" Title="Corrupted files: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=495a9f1d-d6f2-4646-ac42-26ce3d298198" Title="Why is the Security tab missing from my file and folder properties?" />
+                <HelpTOCNode Url="mshelp://windows/?id=56cdc9d9-597e-4ea5-bd62-24eb8abaafa3" Title="Searching in Windows: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=31ad4562-aee7-4fed-8316-89114dc97303" Title="How do I open a file if I get an access denied message?" />
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=bea77e7e-2237-4d3b-b296-7fce525927e2" Title="Printers and printing">
+            <HelpTOCNode Url="mshelp://windows/?id=4097d784-4b1e-423d-b6be-737f81f7b1dc" Title="Install a printer" />
+            <HelpTOCNode Url="mshelp://windows/?id=3b48e8bf-7d8a-417e-8053-6e9cca3528c2" Title="Install a printer on a home network" />
+            <HelpTOCNode Url="mshelp://windows/?id=304afc4c-6d8f-4de3-9063-558f23e2c644" Title="Find and install printer drivers" />
+            <HelpTOCNode Url="mshelp://windows/?id=44ae730c-f172-4884-bca8-928c6a025527" Title="Print a picture" />
+            <HelpTOCNode Url="mshelp://windows/?id=ac22aeaf-88d3-4dce-a943-c0a0500b58c0" Title="Picture printing: frequently asked questions" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=2df6cfb1-fe14-4ca4-8351-dd633d54cba0" Title="About printers">
+                <HelpTOCNode Url="mshelp://windows/?id=4097d784-4b1e-423d-b6be-737f81f7b1dc" Title="Install a printer" />
+                <HelpTOCNode Url="mshelp://windows/?id=c5159b47-bd0a-48dc-9450-86acd5397ea6" Title="Change your default printer" />
+                <HelpTOCNode Url="mshelp://windows/?id=304afc4c-6d8f-4de3-9063-558f23e2c644" Title="Find and install printer drivers" />
+                <HelpTOCNode Url="mshelp://windows/?id=ccca9106-52fd-4c7e-bb33-930a2f320f13" Title="Print a test page" />
+                <HelpTOCNode Url="mshelp://windows/?id=3847e058-6e00-43e7-b642-3a2eed063c23" Title="Print to the Microsoft XPS Document Writer" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=a60dae2f-2643-4f11-8716-77565f7c6492" Title="About printing">
+                <HelpTOCNode Url="mshelp://windows/?id=5de64f64-78e6-4f70-b252-78455d076288" Title="Getting started with printing" />
+                <HelpTOCNode Url="mshelp://windows/?id=3160f271-c5a2-4fc2-add2-8a66aea61862" Title="Print a document or file" />
+                <HelpTOCNode Url="mshelp://windows/?id=bb6f81d9-4092-4ac8-9716-2bd008f513e1" Title="View, pause, or cancel a print job" />
+                <HelpTOCNode Url="mshelp://windows/?id=ffd7392f-dcde-40c0-ab21-acea2a7284fb" Title="Take a screen capture (print screen)" />
+                <HelpTOCNode Url="mshelp://windows/?id=ccca9106-52fd-4c7e-bb33-930a2f320f13" Title="Print a test page" />
+                <HelpTOCNode Url="mshelp://windows/?id=44ae730c-f172-4884-bca8-928c6a025527" Title="Print a picture" />
+                <HelpTOCNode Url="mshelp://windows/?id=ac22aeaf-88d3-4dce-a943-c0a0500b58c0" Title="Picture printing: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=48da744c-324f-47cc-a057-ed8772ae6f05" Title="Choosing print options" />
+                <HelpTOCNode Url="mshelp://windows/?id=3bccd346-854f-483f-9feb-cf434b7b9fe2" Title="Print from a remote computer to your printer" />
+                <HelpTOCNode Url="mshelp://windows/?id=3847e058-6e00-43e7-b642-3a2eed063c23" Title="Print to the Microsoft XPS Document Writer" />
+                <HelpTOCNode Url="mshelp://windows/?id=78e3c1ae-c2cc-49cd-b1aa-c6a56b7b0ab0" Title="What is the XPS Viewer?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=827abf5b-a140-4cad-9e07-cf4f593d0372" Title="Troubleshoot printers or printing problems">
+                <HelpTOCNode Url="mshelp://windows/?id=283850f3-2c7c-4091-976f-8f9a43db89e5" Title="Open the Printer troubleshooter" />
+                <HelpTOCNode Url="mshelp://windows/?id=64f04e6f-b6fe-4996-bc79-f11a49cd4e26" Title="Why can't I print?" />
+                <HelpTOCNode Url="mshelp://windows/?id=ccca9106-52fd-4c7e-bb33-930a2f320f13" Title="Print a test page" />
+                <HelpTOCNode Url="mshelp://windows/?id=304afc4c-6d8f-4de3-9063-558f23e2c644" Title="Find and install printer drivers" />
+                <HelpTOCNode Url="mshelp://windows/?id=76f61616-6d12-46ec-bac2-49969d130c79" Title="Change color management settings" />
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=0e4bf769-48b5-4039-a6a9-e5ff843bca38" Title="Programs, tools, and games">
+            <HelpTOCNode Url="mshelp://windows/?tocid=84efc4a9-5418-4e86-9391-05207090928f" Title="Working with programs and tools">
+                <HelpTOCNode Url="mshelp://windows/?id=519656e8-f966-42d1-81eb-c89768f46c99" Title="Using programs" />
+                <HelpTOCNode Url="mshelp://windows/?id=017d7569-7e13-4df8-accf-164d28b832dc" Title="View programs running on this computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=7770e3a3-1cb4-492c-897a-e76b79594f32" Title="Prevent children from using specific programs" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=c000b28a-4a19-478a-b07a-2d3411d0a6a6" Title="Adding and removing programs">
+                    <HelpTOCNode Url="mshelp://windows/?id=be5d0190-7bdc-412e-b342-04471a2f56ca" Title="Uninstall or change a program" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fe7ea80e-52a2-48d6-947a-05e02e78bc37" Title="Install a program" />
+                    <HelpTOCNode Url="mshelp://windows/?id=1e62706b-ef53-4ecd-a217-0e7bcf82009b" Title="Turn Windows features on or off" />
+                    <HelpTOCNode Url="mshelp://windows/?id=95d4ed9a-1d7d-4b62-84e0-649fc98069f5" Title="Installing programs: frequently asked questions" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=db0a4c4f-d56e-4538-8fc9-7cffd840a6b2" Title="Running programs">
+                    <HelpTOCNode Url="mshelp://windows/?id=19d16e0c-ebe1-4d6e-966b-a95cea5804e2" Title="Run a program automatically when Windows starts" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b38d44d3-c61f-411f-a069-8f189d2f914e" Title="Stop a program from running automatically when Windows starts" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a19ac945-1007-4638-9615-e2c3bfd92b75" Title="What's the difference between AutoPlay and autorun?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fb464905-31d5-4427-89a2-ed5322327fc2" Title="What happened to the Run as command?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e8195b30-4668-4027-b511-b7ae5d47e4b1" Title="Start a program from the taskbar" />
+                    <HelpTOCNode Url="mshelp://windows/?id=233aa6eb-2962-4954-a23f-4ba57fb54c1c" Title="Start a program by using the Run command" />
+                    <HelpTOCNode Url="mshelp://windows/?id=3ceb9d4e-e8d2-499c-b860-6a6619580bb4" Title="Use Speech Recognition to operate windows and programs" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=7b9bf69e-6d9c-4579-af00-b31e324716f8" Title="Program compatibility">
+                    <HelpTOCNode Url="mshelp://windows/?id=bf416877-c83f-4476-a3da-8ec98dcf5f10" Title="Make older programs run in this version of Windows" />
+                    <HelpTOCNode Url="mshelp://windows/?id=99a95df6-04e6-46eb-bb65-6404cd215e64" Title="Open the Program Compatibility troubleshooter" />
+                    <HelpTOCNode Url="mshelp://windows/?id=334c6e6c-9289-49e3-8a81-c3981f5f42dc" Title="What is program compatibility?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=82c0440d-553e-47e9-b4bd-6c2d10df4de7" Title="Program Compatibility Assistant: frequently asked questions" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=fcff4e94-2077-4261-8da5-c9da0e6ee822" Title="Set programs used by default">
+                    <HelpTOCNode Url="mshelp://windows/?id=6ef5399f-a0b6-4133-ac76-41cda36b1ca2" Title="Change which programs Windows uses by default" />
+                    <HelpTOCNode Url="mshelp://windows/?id=bdd90f71-8fea-4537-b7c2-395f790eca21" Title="Change the default music or video player" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6e2d0272-8e1c-43bb-a8c2-e115e0def376" Title="Change your default web browser" />
+                    <HelpTOCNode Url="mshelp://windows/?id=135bcf6b-feea-4c9d-b0f6-9eb77bdbe193" Title="What is Set Program Access and Computer Defaults?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=72b76107-08c3-47a7-92f4-f2085403e26b" Title="Change default programs using Set Program Access and Computer Defaults" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6e94f7b1-7260-4f83-bbcc-8c276e92d6e2" Title="Set Program Access and Computer Defaults: frequently asked questions" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=6244641e-8b5c-4d5f-a574-3ab48faafaed" Title="Troubleshooting problems with programs">
+                    <HelpTOCNode Url="mshelp://windows/?id=a8ff7749-3964-400b-98ac-84ccb4b61178" Title="What does it mean when a program is not responding?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e93886b9-292f-42e2-8702-512e67ae63cf" Title="Why is Windows closing my program?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5aaa8d60-e5a2-42f4-bfb3-5a03b0d512ab" Title="Exit a program that isn't responding" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a301db42-d72d-4493-8063-dc02891ac0e9" Title="End a process" />
+                    <HelpTOCNode Url="mshelp://windows/?id=057580a1-7002-4f43-9240-a74f42cb05c9" Title="What is svchost.exe?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=084cfbd0-c048-4983-97ce-7ce894f7e2c4" Title="What is a runtime error?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=19d16e0c-ebe1-4d6e-966b-a95cea5804e2" Title="Run a program automatically when Windows starts" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b38d44d3-c61f-411f-a069-8f189d2f914e" Title="Stop a program from running automatically when Windows starts" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=886cb3c9-7e2c-4155-ae42-80eb70db36c8" Title="Preventing harmful code from running">
+                    <HelpTOCNode Url="mshelp://windows/?id=80062dee-6203-42f8-b898-cfb79bde9889" Title="What is Data Execution Prevention?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=186de3d0-01af-4d4c-981d-674637d2f4bf" Title="Data Execution Prevention: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=1d9bb9b4-f6ba-466d-ac2b-7b8c4f836161" Title="Change Data Execution Prevention settings" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e93886b9-292f-42e2-8702-512e67ae63cf" Title="Why is Windows closing my program?" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=7f7e1d0f-e3a3-4548-a9d4-caf142c557e3" Title="Games">
+                <HelpTOCNode Url="mshelp://windows/?id=a0061a8f-0c03-4520-812c-7ab16389c95a" Title="Learn about Windows games" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=ebd9c148-6e8d-4359-83d5-f4b700ab2f8f" Title="Playing Windows games">
+                    <HelpTOCNode Url="mshelp://windows/?id=a0061a8f-0c03-4520-812c-7ab16389c95a" Title="Learn about Windows games" />
+                    <HelpTOCNode Url="mshelp://windows/?id=ebeba8d1-fa32-45f7-8d64-6af578672c90" Title="Start a game" />
+                    <HelpTOCNode Url="mshelp://windows/?id=96cff9fa-e9aa-4ca9-a0fe-75bfa684ef10" Title="Chess Titans: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=70f47084-279a-4ec5-a7b9-364a989ddbf4" Title="FreeCell: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=16e908ea-ad61-4467-af4f-46a3539ec03c" Title="Hearts: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=dac9592e-b28b-4b71-9eb9-a0bab4e974ac" Title="Internet Backgammon: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=2479ec90-b62b-40d1-a348-bfd9df757c43" Title="Internet Checkers: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=3c3b6cd0-1c69-4be4-b2ab-b9b9a098c9ec" Title="Internet Spades: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=1cf4d1f7-b5a6-4819-ab0c-e273f7088fdd" Title="Mahjong Titans: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=ea853d89-9242-48a8-a655-20c5bf92a90e" Title="Minesweeper: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=134bdabf-fc1a-4b81-9cc9-43bcf9bad6fb" Title="Purble Place: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c6d5543a-82aa-4e8a-acc1-27bdacdb4cc9" Title="Solitaire: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=0785850c-efb8-4ccc-8a45-688913eec123" Title="Spider Solitaire: how to play" />
+                    <HelpTOCNode Url="mshelp://windows/?id=14caf22a-89a4-4700-b148-8da4f9127733" Title="Where are my games?" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=e4ba4ab8-e082-43aa-9f6d-0b29e995f562" Title="Installing and managing games">
+                    <HelpTOCNode Url="mshelp://windows/?id=53594dbf-a328-4328-a25f-5bb83516a0d1" Title="Working with the Games folder" />
+                    <HelpTOCNode Url="mshelp://windows/?id=14caf22a-89a4-4700-b148-8da4f9127733" Title="Where are my games?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=bd0a15b0-c3a6-4d14-8a39-faf8b5197cff" Title="Install a game in the Games folder" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e1c9f8a6-3a69-42cc-a835-bdde9f8a57d7" Title="How can I tell if a game will run on this computer?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6f9b250a-f629-45af-b120-a0235da78ec4" Title="Install a game controller" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=aef6c86a-f17e-4b35-a02e-f09c88f5c402" Title="DirectX">
+                    <HelpTOCNode Url="mshelp://windows/?id=1c2215fa-4020-465f-8afd-22f6d309e296" Title="Which version of DirectX is on your computer?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6727e4eb-6ca8-4786-a3ba-d5571e9f6253" Title="Diagnosing basic problems with DirectX" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=e8599bfd-84b1-4ea6-9461-17ffe41156dd" Title="Pictures, CDs, DVDs, TV, music, and sound">
+            <HelpTOCNode Url="mshelp://windows/?id=ccef1cc5-cef3-4d7d-83a9-f3139c8ad2a1" Title="What happened to Windows Photo Gallery?" />
+            <HelpTOCNode Url="mshelp://windows/?id=24f68324-8799-43d6-8fa0-68ad0c7b9abc" Title="What happened to Windows Movie Maker?" />
+            <HelpTOCNode Url="mshelp://windows/?id=c1eccc18-0edf-4d5a-9c0e-f127add0f375" Title="What happened to Windows Import Video?" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=4c50b9c2-69bf-4e5e-a408-9ef0a951832a" Title="Pictures">
+                <HelpTOCNode Url="mshelp://windows/?id=deddbd90-ddb0-4592-bf83-91cc0f0c3c7b" Title="Digital pictures: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=924a1b6f-6202-487c-a59b-f7130ce774a4" Title="Working with digital pictures" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=4fb00d71-43ca-4d80-8964-cf9d9cc2bdd5" Title="Viewing pictures">
+                    <HelpTOCNode Url="mshelp://windows/?id=d5393a90-e7e4-48ad-853b-5518fc4bb680" Title="Managing your pictures" />
+                    <HelpTOCNode Url="mshelp://windows/?id=427ef14f-d729-4d30-a18c-a2584046902c" Title="See your pictures as a slide show" />
+                    <HelpTOCNode Url="mshelp://windows/?id=2536ab0a-7d89-4148-90ee-f3fa43de6e08" Title="Use pictures as a screen saver" />
+                    <HelpTOCNode Url="mshelp://windows/?id=47a313c7-13a3-440b-bfc9-195a9f44f131" Title="View and print picture thumbnails" />
+                    <HelpTOCNode Url="mshelp://windows/?id=89a00b32-096e-4b45-8138-5f8d76537daf" Title="View and use your pictures in Windows Photo Viewer" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=da03670f-c527-41a9-80e3-cebb6279a040" Title="Finding and organizing pictures">
+                    <HelpTOCNode Url="mshelp://windows/?id=d5393a90-e7e4-48ad-853b-5518fc4bb680" Title="Managing your pictures" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a9f42cc1-d0a1-417f-b084-164a00b1bd14" Title="Tag pictures so they're easier to find" />
+                    <HelpTOCNode Url="mshelp://windows/?id=82ba8791-93bd-4c37-96a3-59febde7c5da" Title="Save a picture from a webpage" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=bc1e7304-e4ba-476e-8c61-b1cf0ce33785" Title="Editing digital pictures">
+                    <HelpTOCNode Url="mshelp://windows/?id=ccef1cc5-cef3-4d7d-83a9-f3139c8ad2a1" Title="What happened to Windows Photo Gallery?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=25b5f276-02f1-43e1-a30b-cf9d348298a7" Title="Rotate a picture" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d1b58a13-c3b9-4f3c-a212-45aabb2048dc" Title="Crop a picture by using Paint" />
+                    <HelpTOCNode Url="mshelp://windows/?id=29459a7a-9466-49a7-bac4-816e74542dbb" Title="Resize a picture using Paint" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8c5cc3e0-3d9f-49c6-9082-12a6f3588e6b" Title="Change a picture's file type (file format) using Paint" />
+                    <HelpTOCNode Url="mshelp://windows/?id=379810ee-75d9-4d02-a3b9-68cad94146aa" Title="Using Paint" />
+                    <HelpTOCNode Url="mshelp://windows/?id=426f86d6-94b8-4169-86dd-bfb65b2222bc" Title="Change the date a picture was taken" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7ced89af-516f-44ad-8bc1-7ab2fe5667f4" Title="Understanding picture file types" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=88f8bb41-4341-4f59-b42c-bcb58f9b8160" Title="Printing pictures">
+                    <HelpTOCNode Url="mshelp://windows/?id=44ae730c-f172-4884-bca8-928c6a025527" Title="Print a picture" />
+                    <HelpTOCNode Url="mshelp://windows/?id=ac22aeaf-88d3-4dce-a943-c0a0500b58c0" Title="Picture printing: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=f173b61f-d60b-4ea5-aacc-07a5f676b43a" Title="Print a picture from a webpage" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=b4b90d72-804e-4a3e-a5d9-48e42e52be5d" Title="Burning CDs and DVDs">
+                <HelpTOCNode Url="mshelp://windows/?id=b47eb51a-ea6d-4d97-97b0-2d07a5931698" Title="Burn a CD or DVD in Windows Explorer" />
+                <HelpTOCNode Url="mshelp://windows/?id=3fdbacc1-0abd-4c62-a739-a3760508b59e" Title="Format a CD or DVD" />
+                <HelpTOCNode Url="mshelp://windows/?id=c84afc5f-a21b-4229-b15b-850b548ee4b2" Title="Erase a CD or DVD" />
+                <HelpTOCNode Url="mshelp://windows/?id=6ba29b2b-0804-44ba-b277-a64fc439c79c" Title="Close or finalize a CD or DVD" />
+                <HelpTOCNode Url="mshelp://windows/?id=2af64e60-60aa-4d79-ab6c-3a5db5806cbe" Title="Which CD or DVD format should I use?" />
+                <HelpTOCNode Url="mshelp://windows/?id=2fa35b0d-b280-4589-9805-55e753888f5c" Title="Disc burning: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=13aca111-6547-4dfd-b9ef-75ec2a1ce163" Title="Burn a CD or DVD from an ISO file" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=d25a565c-188e-4703-b70b-d3d60774bc4e" Title="CD and DVD playback">
+                <HelpTOCNode Url="mshelp://windows/?id=35ca2662-fea3-459f-8df3-c99d15b667f1" Title="Set up Windows to automatically play CDs and DVDs" />
+                <HelpTOCNode Url="mshelp://windows/?id=7e1fe788-0747-4e00-895b-c3461b1ddd97" Title="AutoPlay: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=40f23376-1351-49d5-8d48-5c05d35f2ac8" Title="Change AutoPlay settings" />
+                <HelpTOCNode Url="mshelp://windows/?id=3ab73757-6b67-4e3c-80b1-a75651c7a945" Title="Troubleshoot AutoPlay problems" />
+                <HelpTOCNode Url="mshelp://windows/?id=e78dd11a-7dd3-4a06-8436-757bca78e97b" Title="Prevent CDs and DVDs from playing automatically" />
+                <HelpTOCNode Url="mshelp://windows/?id=fae8071a-4531-4f3b-b7a4-e9f087644542" Title="Open the Windows Media Player DVD troubleshooter" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=f962e8fc-d7d8-405b-9608-e78124014383" Title="Watching and recording TV">
+                <HelpTOCNode Url="mshelp://windows/?id=78f9a0a6-02d0-4105-996c-3cc70213d76c" Title="TV and your computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=2968b296-58c8-42c8-9a23-445a22d8e419" Title="How do I watch or record TV on my computer?" />
+                <HelpTOCNode Url="mshelp://windows/?id=2a2cde13-b60c-4f2f-b9da-4a433cc51ca9" Title="Connect your computer to a TV" />
+                <HelpTOCNode Url="mshelp://windows/?id=1cc2649f-385f-4844-ae10-d994e25b86ef" Title="HDTV: frequently asked questions" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=41b0319c-39ed-45ba-ba88-92332f243979" Title="Music and sound">
+                <HelpTOCNode Url="mshelp://windows/?id=6759b309-2634-41fd-bbe3-7bfdbc2ce304" Title="Managing your music" />
+                <HelpTOCNode Url="mshelp://windows/?id=f76f244d-56db-4b68-b560-37eb4000253a" Title="Getting sound from your computer: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=bfc68d06-0198-40cc-8486-35b201cd9391" Title="Change computer sounds" />
+                <HelpTOCNode Url="mshelp://windows/?id=2d520c35-f7cb-41a1-98ec-fa643102fad3" Title="Adjust the sound level on your computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=649ad10b-80cf-4025-a061-21af669ade81" Title="Sound cards: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=a2d414af-9276-443c-b21c-49e29208ca0d" Title="Install or remove a sound card" />
+                <HelpTOCNode Url="mshelp://windows/?id=b0e3d7fb-1b4a-4926-8254-65da28920926" Title="Connect a microphone, music player, or other audio device to your computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=6bb0dfe9-6032-4b6d-84e2-28514948bf7c" Title="Record audio with Sound Recorder" />
+                <HelpTOCNode Url="mshelp://windows/?id=bfafe6bf-edba-4f0a-932d-16e63a3ed0bc" Title="Open the Playing Audio troubleshooter" />
+                <HelpTOCNode Url="mshelp://windows/?id=af596912-8acf-45c1-bae6-e77b89b002a1" Title="Open the Recording Audio troubleshooter" />
+                <HelpTOCNode Url="mshelp://windows/?id=7f2c1360-9b1f-4199-b0d3-cffacc79c004" Title="Create and assign a ringtone for your mobile phone using Device Stage" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=44982927-9a77-4348-afe8-8d211653aef5" Title="Using Windows Media Player">
+                <HelpTOCNode Url="mshelp://windows/?id=eeb6e032-8265-499e-8627-a92ed3cfb583" Title="Getting started with Windows Media Player" />
+                <HelpTOCNode Url="mshelp://windows/?id=716e60f6-791d-412c-94d2-2d4cb81bbbc8" Title="Using Windows Media Player: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=312e2f91-810a-46cf-a211-3f9def86153a" Title="Shop online in Windows Media Player" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=fbe90b57-50e4-44cb-bb45-eec133071e25" Title="Playing music and video">
+                    <HelpTOCNode Url="mshelp://windows/?id=b2ee74d2-2227-484f-b68d-d9bd0b66c32f" Title="Play an audio or video file" />
+                    <HelpTOCNode Url="mshelp://windows/?id=57b0ddd4-bd38-488e-ad3d-11c4e2fed922" Title="Play a CD or DVD" />
+                    <HelpTOCNode Url="mshelp://windows/?id=68ad091b-3ec5-45eb-9b71-d6b32d58dd89" Title="Eject a CD or DVD" />
+                    <HelpTOCNode Url="mshelp://windows/?id=4d93391c-c690-4f50-9339-d6bfdd56b3e1" Title="Shuffle and repeat items" />
+                    <HelpTOCNode Url="mshelp://windows/?id=9efef684-9975-421a-93c7-b45cbbaaacca" Title="Change playback speed" />
+                    <HelpTOCNode Url="mshelp://windows/?id=f29017fe-ddf3-42ae-bd99-f54eae5c00a1" Title="Change volume settings" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fc7c6ca0-ecf4-4510-9789-c7909d0df312" Title="Which protocols does Windows Media Player use for streaming?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=79b6cf05-00b9-432d-a012-3d92322501b3" Title="View playback statistics" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5f0d08f7-42b9-4840-b54f-8f427924a28c" Title="Play special features on a DVD" />
+                    <HelpTOCNode Url="mshelp://windows/?id=19ccbe6c-2324-4116-a35f-b58bcc54541c" Title="Windows Media Player language settings: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=922b9b2c-f529-4153-bcec-aba3858cead7" Title="Switch between display modes" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6e5b72f2-a380-4949-9ff3-fe7915d3be22" Title="View a video using the entire screen" />
+                    <HelpTOCNode Url="mshelp://windows/?id=4592322d-c746-41c2-81da-cb0758bd0ae8" Title="Resize Windows Media Player to fit a video" />
+                    <HelpTOCNode Url="mshelp://windows/?id=08d80f59-b63b-4887-a360-e0cadc674892" Title="Show or hide the menu bar" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7e241b1f-1019-43c1-868d-cafc718d1601" Title="Windows Media Player DRM: frequently asked questions" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=a4a77ccc-5530-468a-8e3d-29f859b104a4" Title="Organizing your digital media collection">
+                    <HelpTOCNode Url="mshelp://windows/?id=a1b53ba2-40db-4514-ba1a-7641bd7b8643" Title="Windows Media Player Library: recommended links" />
+                    <HelpTOCNode Url="mshelp://windows/?id=60fc17d8-7924-4600-93e8-39873ee2d5e9" Title="Add items to the Windows Media Player Library" />
+                    <HelpTOCNode Url="mshelp://windows/?id=90dd77bb-1337-46c6-8576-9b85b82dd478" Title="Remove items from the Windows Media Player Library" />
+                    <HelpTOCNode Url="mshelp://windows/?id=18e9500d-2a2e-4cf8-9f7e-a616c8392ae4" Title="Open the Windows Media Player Library troubleshooter" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8a5fe45e-20d6-4549-b34f-2ce390102689" Title="Find items in the Windows Media Player Library" />
+                    <HelpTOCNode Url="mshelp://windows/?id=3985896d-00d6-437b-ab62-a6d4e3747f5a" Title="Create or change a regular playlist" />
+                    <HelpTOCNode Url="mshelp://windows/?id=f3231fc6-81f6-40ce-aa7e-c5984efb0361" Title="Create or change an auto playlist" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6ba5ee47-860e-4746-b9e7-0561240b6145" Title="Change how you display items in the Windows Media Player Library" />
+                    <HelpTOCNode Url="mshelp://windows/?id=4da102ff-2cb3-4949-ab3f-afd8828a4be4" Title="Add or edit media information" />
+                    <HelpTOCNode Url="mshelp://windows/?id=5bba7de8-cdae-4f70-abf0-80cadf042ab4" Title="How are ratings used?" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=9ecc81d3-6ad6-4e16-a1cf-5b1a2b1f0d5e" Title="Ripping and burning CDs">
+                    <HelpTOCNode Url="mshelp://windows/?id=dcee3798-8afb-4f55-b17d-fed1c85da653" Title="Rip music from a CD" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7faa458d-45b5-4858-9a22-86f3522fb313" Title="Rip music: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6519dfc5-6d50-4f6f-b5e9-58823de95e9f" Title="Change settings for ripping music" />
+                    <HelpTOCNode Url="mshelp://windows/?id=30ffa641-b682-4315-8c7e-8a29f383a713" Title="Burn a CD or DVD in Windows Media Player" />
+                    <HelpTOCNode Url="mshelp://windows/?id=90003d58-bda2-4250-a98f-6ff2dc7f7819" Title="Change settings for burning a CD or DVD in Windows Media Player" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=5457a94f-79b4-4b38-839a-9aae2ea40b86" Title="Sync music and video to a portable media player">
+                    <HelpTOCNode Url="mshelp://windows/?id=678d9218-a8d6-4b97-8c12-cec52a808a60" Title="Windows Media Player sync: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=fc37ace2-5e86-48e2-a844-d2782993204d" Title="Set up a device to sync in Windows Media Player" />
+                    <HelpTOCNode Url="mshelp://windows/?id=2d808262-9675-48d1-adc9-9f2a6e36f5a6" Title="What if my device syncs with another Windows Media Player Library?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a8d5df84-b1ac-49f2-ae56-572f995dbad4" Title="How do I prevent a file from syncing to a device in Windows Media Player?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=672678f9-1638-4cd4-a02c-9c770717f476" Title="Sync manually in Windows Media Player" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=23e77ee0-1c41-488d-8086-fb668846931d" Title="Streaming media to computers and devices">
+                    <HelpTOCNode Url="mshelp://windows/?id=079a4d8b-e19d-4d7f-bef1-116cb711364c" Title="Getting started with media streaming" />
+                    <HelpTOCNode Url="mshelp://windows/?id=bc59e021-02c6-4bc2-90d9-7a0c2a65d2cc" Title="Stream your media over the Internet using Windows Media Player" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7391bdc3-3767-4f98-9cf6-80d8bd2a0594" Title="Stream your media to devices and computers using Windows Media Player" />
+                    <HelpTOCNode Url="mshelp://windows/?id=dd550b2d-7d3e-498d-9ef7-3c200c6826af" Title="Change settings for streaming media in Windows Media Player" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c6e156f0-1871-409c-8b05-3e8bd7db3976" Title="Privacy and security when streaming your media: frequently asked questions" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=35a04213-1449-43f8-af06-51d9f565bc53" Title="Maintaining privacy and keeping your computer secure">
+                    <HelpTOCNode Url="mshelp://windows/?id=e31e09cb-b1d4-4b2c-b088-0aa51c598562" Title="Which settings affect privacy in Windows Media Player?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=0f840d98-44f1-42d6-9553-30ef37306229" Title="Which settings affect security in Windows Media Player?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c6e156f0-1871-409c-8b05-3e8bd7db3976" Title="Privacy and security when streaming your media: frequently asked questions" />
+                    <HelpTOCNode Url="mshelp://windows/?id=afb26057-7d97-4cfa-ac82-95b2686a201f" Title="Should I allow a webpage to access my Windows Media Player library?" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=bbcbe302-d8cd-4e43-8f27-baf2da8d2b32" Title="Customizing Windows Media Player">
+                    <HelpTOCNode Url="mshelp://windows/?id=3676f0b1-b05b-45b0-864e-d10d480a56be" Title="Add a plug-in" />
+                    <HelpTOCNode Url="mshelp://windows/?id=037e076b-beb9-4696-86a2-e00edff6543f" Title="Turn off your screen saver when playing video" />
+                    <HelpTOCNode Url="mshelp://windows/?id=484cd44c-6e8f-4bea-88e3-1f4fda3f2c16" Title="Keep Windows Media Player on top of other windows" />
+                    <HelpTOCNode Url="mshelp://windows/?id=b8235877-f558-4102-8104-a4ca1c1966f4" Title="Change how videos look" />
+                    <HelpTOCNode Url="mshelp://windows/?id=610eca30-ca40-49eb-88dd-7f7f624e1797" Title="Speaker settings" />
+                    <HelpTOCNode Url="mshelp://windows/?id=10e9cde0-25c3-4a55-9192-8af2a43be759" Title="Windows Media Player keyboard shortcuts" />
+                    <HelpTOCNode Url="mshelp://windows/?id=67c1d19a-bdd7-4224-a40c-5941ef859e4c" Title="Change the file types that play in Windows Media Player" />
+                    <HelpTOCNode Url="mshelp://windows/?id=010a123b-e7d8-4c32-b447-d9c57ef0fec8" Title="Open the Windows Media Player Settings troubleshooter" />
+                    <HelpTOCNode Url="mshelp://windows/?id=9c3b322c-ba22-4a5f-9073-e1b725e52ad8" Title="Windows Media Player: Devices tab" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d2ba7be1-ac71-442f-8286-e96e91399256" Title="Windows Media Player: Player tab" />
+                    <HelpTOCNode Url="mshelp://windows/?id=08d80f59-b63b-4887-a360-e0cadc674892" Title="Show or hide the menu bar" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=1106145b-f417-46a1-9132-89abb1f3d959" Title="Using Windows Media Center">
+                <HelpTOCNode Url="mshelp://windows/?tocid=ab451cf4-c45e-4766-b3b4-ace53938f983" Title="Setting up and customizing">
+                    <HelpTOCNode Url="mshelp://windows/?id=1ad827fb-c618-4e94-9140-ce0c13122f64" Title="Getting started with Windows Media Center" />
+                    <HelpTOCNode Url="mshelp://windows/?id=71f08036-29ee-4fa0-9e74-2c3279910000" Title="Add digital media files" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8eb136f8-8d1e-44a1-9cda-f12b4362b2bc" Title="Use Ease of Access features in Windows Media Center" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6ad80cc0-548c-49cf-94a3-42fc15b3b223" Title="Which settings affect privacy?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e69eb36f-de61-4e80-8fe3-f3835b8e3e26" Title="Windows Media Center keyboard shortcuts" />
+                    <HelpTOCNode Url="mshelp://windows/?id=1cfddd5a-620c-4860-a524-cf2ceef663ce" Title="Use parental controls" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e2d740cb-300d-4aa6-91ac-2a1926e6d219" Title="Turn on high contrast" />
+                    <HelpTOCNode Url="mshelp://windows/?id=6f7e43f4-9f1e-48a3-b6a3-3d47b1446541" Title="Show closed captions or subtitles" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=7c7d0a0b-d527-4577-8d67-4933875c8105" Title="Watching or recording TV">
+                    <HelpTOCNode Url="mshelp://windows/?id=f72adfd2-4b8c-461e-99c6-36efeaec7a92" Title="Watch TV" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a1d321bd-0868-490a-982a-d1cefc93296b" Title="Record TV" />
+                    <HelpTOCNode Url="mshelp://windows/?id=9e124367-9656-44de-b462-a069d9e98fd1" Title="How do I change the way Windows Media Center looks on my display?" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=dec83e93-bfb7-487e-9849-227934f88ff5" Title="Enjoying music, pictures, videos, and games">
+                    <HelpTOCNode Url="mshelp://windows/?id=71f08036-29ee-4fa0-9e74-2c3279910000" Title="Add digital media files" />
+                    <HelpTOCNode Url="mshelp://windows/?id=3d343f7e-0e44-4978-a404-7fbae8fa634d" Title="Listen to music" />
+                    <HelpTOCNode Url="mshelp://windows/?id=7190fcba-7b98-4a19-b4ce-c791da2aaeb3" Title="Play video and watch pictures" />
+                    <HelpTOCNode Url="mshelp://windows/?id=17cb9499-6634-4812-a760-a86ba45af520" Title="File types supported by Windows Media Center" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=a6ce0119-5da0-47b4-8e37-07f0ca8552eb" Title="Playing and burning CDs and DVDs">
+                    <HelpTOCNode Url="mshelp://windows/?id=7f278c85-8ac1-4f47-aa20-5e81f7d29baf" Title="Play a CD or DVD" />
+                    <HelpTOCNode Url="mshelp://windows/?id=9ee6cb78-bd7e-4de3-a154-82d40c4289e0" Title="Burn a CD or DVD" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=9429ed9f-da28-4631-9d29-89d0100573cc" Title="Troubleshooting Windows Media Center problems">
+                    <HelpTOCNode Url="mshelp://windows/?id=f0cc7aba-db5c-48fa-ba01-e00d74b5626e" Title="Why didn't my TV show record in Windows Media Center?" />
+                    <HelpTOCNode Url="mshelp://windows/?id=9e124367-9656-44de-b462-a069d9e98fd1" Title="How do I change the way Windows Media Center looks on my display?" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=41597577-0cbf-422a-89fe-322b3816cf50" Title="Using Windows DVD Maker">
+                <HelpTOCNode Url="mshelp://windows/?id=27a0225d-260e-4313-8a82-7c5253e93e6f" Title="Burn a DVD-Video disc with Windows DVD Maker" />
+                <HelpTOCNode Url="mshelp://windows/?id=04ed3370-ae1d-4a8d-827f-2b1058f85378" Title="Change Windows DVD Maker DVD-Video settings" />
+                <HelpTOCNode Url="mshelp://windows/?id=74b65f20-93ab-495d-b0f0-368d80821c4d" Title="Work with projects in Windows DVD Maker" />
+                <HelpTOCNode Url="mshelp://windows/?id=60baf31b-16cb-409f-91cf-e99c9e9a495c" Title="Video filters in Windows DVD Maker: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=f605df6c-0dfe-4f6c-b8e2-866d8cb36225" Title="DVD-Video burning: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=59e68f59-95da-49a8-a47a-1f9f6781b9ae" Title="What are the video card system requirements?" />
+                <HelpTOCNode Url="mshelp://windows/?id=4ab90787-fdc5-47f5-ab5a-632d0486c5ce" Title="What is a DVD burner and why do I need one?" />
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=041feba6-fc78-42bb-9f9e-e0cfe2e4f4dc" Title="Customizing your computer">
+            <HelpTOCNode Url="mshelp://windows/?id=bfc68d06-0198-40cc-8486-35b201cd9391" Title="Change computer sounds" />
+            <HelpTOCNode Url="mshelp://windows/?id=d031e17d-59aa-4862-9280-74a17bbb5d9c" Title="Working with Control Panel" />
+            <HelpTOCNode Url="mshelp://windows/?id=eb64dd83-9f49-436d-90a7-a1c287c9821a" Title="What is the Aero desktop experience?" />
+            <HelpTOCNode Url="mshelp://windows/?id=22ce1f24-0318-46bd-bc17-d0ef889f466b" Title="What is a theme?" />
+            <HelpTOCNode Url="mshelp://windows/?id=5aa09c1a-466e-4639-9725-2ac2d1d0f604" Title="Customize a theme" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=a37d76b8-ffee-40d5-8c7c-6d8e38244963" Title="Desktop">
+                <HelpTOCNode Url="mshelp://windows/?id=f6dc9be6-34cf-4893-8572-3467479b6da0" Title="What's new with the Windows desktop?" />
+                <HelpTOCNode Url="mshelp://windows/?id=038542e7-db5e-4331-b2fb-cfc3f0afa0b2" Title="The desktop (overview)" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=939da081-c0c9-4fdd-9dd3-cc96538432da" Title="Managing the desktop">
+                    <HelpTOCNode Url="mshelp://windows/?id=ac7f4e23-87f9-4841-8af4-005f13be9519" Title="Customizing the desktop: recommended links" />
+                    <HelpTOCNode Url="mshelp://windows/?id=1fe15444-8329-404e-bb4a-7a04c1d5b0e7" Title="Personalizing your computer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=2959a6e9-4b0c-4e36-8d63-a15bd50b8f5f" Title="Change your desktop background (wallpaper)" />
+                    <HelpTOCNode Url="mshelp://windows/?id=e216d830-0e0d-4943-9a1a-2705e60342c1" Title="Create a desktop background slide show" />
+                    <HelpTOCNode Url="mshelp://windows/?id=547b5328-e7b9-4996-8906-ead17e13a5a1" Title="Make changes to your desktop background slide show" />
+                    <HelpTOCNode Url="mshelp://windows/?id=45314ff4-2a84-4ee3-93af-bac6084eb608" Title="Change the colors on your computer" />
+                    <HelpTOCNode Url="mshelp://windows/?id=d87d0ef2-c0e8-4977-94ae-7bb9f959f8ea" Title="Minimize all open windows to view the desktop" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8b77082a-8399-4794-8a6c-b32aaa62424b" Title="Minimize windows on the desktop using Aero Shake" />
+                    <HelpTOCNode Url="mshelp://windows/?id=3c03d7a7-2094-4567-966b-c346f55522fa" Title="Preview an open window on the desktop using Aero Peek" />
+                    <HelpTOCNode Url="mshelp://windows/?id=80134793-6149-41d6-b201-2576084ac64b" Title="Temporarily preview the desktop using Aero Peek" />
+                    <HelpTOCNode Url="mshelp://windows/?id=ffab5395-d72f-420a-a04f-a309a2450eff" Title="Using Aero Flip 3D" />
+                    <HelpTOCNode Url="mshelp://windows/?id=bdc9d003-777b-4b1e-9664-2957f50870bd" Title="Change Windows fonts" />
+                    <HelpTOCNode Url="mshelp://windows/?id=454f5078-2b51-4cda-b4c0-6391e870c41d" Title="Make the text on your screen larger or smaller" />
+                    <HelpTOCNode Url="mshelp://windows/?id=0386b009-5f30-45c7-80c8-ff0395cc2409" Title="Change screen resolution" />
+                    <HelpTOCNode Url="mshelp://windows/?id=c33fe91a-9e6f-41f4-ae82-3ed2d5fa2fbf" Title="Open the Aero troubleshooter" />
+                </HelpTOCNode>
+                <HelpTOCNode Url="mshelp://windows/?tocid=a1c12abe-bd07-41ba-8c79-0a8fbb5e16a9" Title="Icons on the desktop">
+                    <HelpTOCNode Url="mshelp://windows/?id=7fe92dfe-4c17-4209-a6d6-d2d053d60ead" Title="Icons: recommended links" />
+                    <HelpTOCNode Url="mshelp://windows/?id=f6c417a2-04ab-4572-b886-bbde12b5cbeb" Title="Add or delete desktop icons" />
+                    <HelpTOCNode Url="mshelp://windows/?id=a7453aef-50cf-45f5-b26d-3b32a9e8e4d6" Title="Show, hide, or resize desktop icons" />
+                    <HelpTOCNode Url="mshelp://windows/?id=8b4d9ebe-b5b6-4331-93bb-9e52788c5a09" Title="Show or hide common icons on the desktop" />
+                    <HelpTOCNode Url="mshelp://windows/?id=831b4099-73a7-43b7-be40-4ebbecb14038" Title="Change how icons appear on the taskbar" />
+                    <HelpTOCNode Url="mshelp://windows/?id=76c95893-0265-47f9-9ff8-47e1d64248e9" Title="Change how icons appear in the notification area of the taskbar" />
+                    <HelpTOCNode Url="mshelp://windows/?id=603da70e-e1df-4d5a-ab82-94ce4aa5f22c" Title="Rearrange icons on the taskbar" />
+                </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=10f6e2c4-deb6-4cd9-a801-aebfa39856bb" Title="Start menu">
+                <HelpTOCNode Url="mshelp://windows/?id=fc38e38f-a816-4131-8022-30498dce0fcd" Title="What's new with the Start menu?" />
+                <HelpTOCNode Url="mshelp://windows/?id=e5ab641b-e34f-49a8-9ecd-6fd43a8dc89a" Title="The Start menu (overview)" />
+                <HelpTOCNode Url="mshelp://windows/?id=3d5421a6-64d9-4bc2-8448-7a6b515beac6" Title="Locate the Start menu" />
+                <HelpTOCNode Url="mshelp://windows/?id=c45acd5d-98b5-4245-8ce6-1f7bba654767" Title="Customize the Start menu" />
+                <HelpTOCNode Url="mshelp://windows/?id=14e5f3dc-69a2-49e7-a561-8b8efde9793f" Title="Using Jump Lists to open programs and items" />
+                <HelpTOCNode Url="mshelp://windows/?id=126112bd-d6e5-4b92-b0cf-4cef3d57ecf9" Title="Pin a program to the Start menu" />
+                <HelpTOCNode Url="mshelp://windows/?id=7d2556d6-90a6-4961-860f-e819d2b12241" Title="Add or remove Recent Items on the Start menu" />
+                <HelpTOCNode Url="mshelp://windows/?id=40be7059-1abb-466d-8deb-63106ee55e2b" Title="Choose a picture for your user account and Start menu" />
+                <HelpTOCNode Url="mshelp://windows/?id=2515459c-a6ce-4004-90cd-15d7648b61d6" Title="What happened to the Run command?" />
+                <HelpTOCNode Url="mshelp://windows/?id=f1951e9e-1ff4-492e-acab-b706790d9d72" Title="Clear the Run history on the Start menu" />
+                <HelpTOCNode Url="mshelp://windows/?id=38d84341-dbcf-42ba-a517-1c8dc610f0a9" Title="Clear lists on the Start menu and taskbar" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=dfbcb8de-b0ca-4adb-b608-9e4ff2b6e99f" Title="Taskbar">
+                <HelpTOCNode Url="mshelp://windows/?id=45a1b648-87a8-4e1a-86ab-1becc2a58144" Title="The taskbar (overview)" />
+                <HelpTOCNode Url="mshelp://windows/?id=8c4ee692-6096-477c-ac98-2c41d6495568" Title="What's new with the Windows 7 taskbar?" />
+                <HelpTOCNode Url="mshelp://windows/?id=5de7c31f-1b8b-4431-9d3d-c0994939b186" Title="Taskbar: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=47f5888e-6333-414c-8a49-d5568af6e4bd" Title="Find the taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=6b8038a1-51f7-490a-987a-2ac946ed0898" Title="Unlock and move the taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=307124e3-0963-41f0-93a6-bf43f063f923" Title="Show or hide the taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=7aba169e-f4c4-47de-ac55-d1e3cbcc2396" Title="Resize the taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=603da70e-e1df-4d5a-ab82-94ce4aa5f22c" Title="Rearrange icons on the taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=a93e417f-2e71-4b7d-aac0-19071da377bd" Title="Add a toolbar to the taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=1405c845-5940-40e7-ae93-e0a857cfee47" Title="Pin a program to the taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=14e5f3dc-69a2-49e7-a561-8b8efde9793f" Title="Using Jump Lists to open programs and items" />
+                <HelpTOCNode Url="mshelp://windows/?id=e8195b30-4668-4027-b511-b7ae5d47e4b1" Title="Start a program from the taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=831b4099-73a7-43b7-be40-4ebbecb14038" Title="Change how icons appear on the taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=76c95893-0265-47f9-9ff8-47e1d64248e9" Title="Change how icons appear in the notification area of the taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=38d84341-dbcf-42ba-a517-1c8dc610f0a9" Title="Clear lists on the Start menu and taskbar" />
+                <HelpTOCNode Url="mshelp://windows/?id=760d7ed3-459b-42c9-97b2-5c9d23381342" Title="What are notifications?" />
+                <HelpTOCNode Url="mshelp://windows/?id=549bd2ed-8d98-4b4f-b600-b2fbfdef661f" Title="Set the clock" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=61aa7a8e-ca77-41c2-9711-79e1ad07d548" Title="Screen saver">
+                <HelpTOCNode Url="mshelp://windows/?id=87086845-d1e3-43ef-bc7b-3b4e677d6340" Title="Turn your screen saver on or off" />
+                <HelpTOCNode Url="mshelp://windows/?id=2536ab0a-7d89-4148-90ee-f3fa43de6e08" Title="Use pictures as a screen saver" />
+                <HelpTOCNode Url="mshelp://windows/?id=1efdd96c-f0f1-41c2-9220-979b80470dd2" Title="Change your screen saver" />
+                <HelpTOCNode Url="mshelp://windows/?id=60a44d5f-a59a-49aa-9aef-47fc7463d75b" Title="Delete a screen saver" />
+                <HelpTOCNode Url="mshelp://windows/?id=e159b6b9-546a-4f27-b15c-8a74229311b6" Title="Use your Windows password for your screen saver password" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=3e2d4704-bc0f-4e06-9177-70efd31d96a6" Title="Desktop gadgets">
+                <HelpTOCNode Url="mshelp://windows/?id=88e2f098-c570-4b36-959a-3c449dee43ab" Title="Desktop gadgets (overview)" />
+                <HelpTOCNode Url="mshelp://windows/?id=03d792aa-f273-4478-9f55-25d7dce1d598" Title="Customize desktop gadgets" />
+                <HelpTOCNode Url="mshelp://windows/?id=3d5bb826-ed5d-421f-9411-8e0d6ee83947" Title="Desktop gadgets: frequently asked questions" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=226fecbb-56d0-4f9f-8831-19058526c0a1" Title="Managing open windows on your desktop">
+                <HelpTOCNode Url="mshelp://windows/?id=aea66e2a-f165-4a8b-aa00-8748e7538984" Title="Working with windows" />
+                <HelpTOCNode Url="mshelp://windows/?id=1d1d12a7-c800-460e-9157-20afe3f4e905" Title="Manage multiple windows" />
+                <HelpTOCNode Url="mshelp://windows/?id=67c858b2-93ec-43eb-ba18-7d1ccfe162a2" Title="Adjust the default size of windows" />
+                <HelpTOCNode Url="mshelp://windows/?id=26c52250-8b83-4f97-95a8-cdc0924abd58" Title="Using menus, buttons, bars, and boxes" />
+                <HelpTOCNode Url="mshelp://windows/?id=fe12f65c-9161-4056-bafc-df2332e01d52" Title="Switch between windows" />
+                <HelpTOCNode Url="mshelp://windows/?id=d87d0ef2-c0e8-4977-94ae-7bb9f959f8ea" Title="Minimize all open windows to view the desktop" />
+                <HelpTOCNode Url="mshelp://windows/?id=8b77082a-8399-4794-8a6c-b32aaa62424b" Title="Minimize windows on the desktop using Aero Shake" />
+                <HelpTOCNode Url="mshelp://windows/?id=7c03b8e7-5712-44eb-bae6-fbc0d83d7efa" Title="Maximize windows on the desktop using Snap" />
+                <HelpTOCNode Url="mshelp://windows/?id=6803ba75-923b-4100-b5ac-95b05062e135" Title="Expand windows vertically on the desktop using Snap" />
+                <HelpTOCNode Url="mshelp://windows/?id=037549ef-e1a6-4aa0-abdd-1b71e6742ccd" Title="Arrange windows side by side on the desktop using Snap" />
+                <HelpTOCNode Url="mshelp://windows/?id=7d89bd84-9eee-45c8-9ef5-62fbdf2de1d2" Title="How do I turn Snap on or off?" />
+                <HelpTOCNode Url="mshelp://windows/?id=3c03d7a7-2094-4567-966b-c346f55522fa" Title="Preview an open window on the desktop using Aero Peek" />
+                <HelpTOCNode Url="mshelp://windows/?id=ffab5395-d72f-420a-a04f-a309a2450eff" Title="Using Aero Flip 3D" />
+                <HelpTOCNode Url="mshelp://windows/?id=67c858b2-93ec-43eb-ba18-7d1ccfe162a2" Title="Adjust the default size of windows" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=5883fc63-6617-43d2-b08b-c3c48faeb78f" Title="Monitors">
+                <HelpTOCNode Url="mshelp://windows/?id=890f1c5b-1eff-4b1c-8acb-12d7305072de" Title="Adjust your monitor's brightness and contrast" />
+                <HelpTOCNode Url="mshelp://windows/?id=52f7448b-d524-44e4-b43d-15b5a2968537" Title="Correct monitor flicker (refresh rate)" />
+                <HelpTOCNode Url="mshelp://windows/?id=132c1dab-6da1-47cf-96af-8f00eceaf6f5" Title="Ways to improve display quality" />
+                <HelpTOCNode Url="mshelp://windows/?id=617624ee-08f3-4aff-9713-5e84a9674a26" Title="Getting the best display on your monitor" />
+                <HelpTOCNode Url="mshelp://windows/?id=c3a4da66-c335-45f5-a71f-d162d1b64ed4" Title="Make text easier to read using ClearType" />
+                <HelpTOCNode Url="mshelp://windows/?id=76f61616-6d12-46ec-bac2-49969d130c79" Title="Change color management settings" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=90071206-0836-47c8-b117-66194fcf6775" Title="Fonts">
+                <HelpTOCNode Url="mshelp://windows/?id=0caf0419-6990-45de-8d71-67f14a3ae4c7" Title="Fonts: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=f144ad40-bc63-43f1-a06e-4cc6b22bde30" Title="Install or delete fonts" />
+                <HelpTOCNode Url="mshelp://windows/?id=bdc9d003-777b-4b1e-9664-2957f50870bd" Title="Change Windows fonts" />
+                <HelpTOCNode Url="mshelp://windows/?id=454f5078-2b51-4cda-b4c0-6391e870c41d" Title="Make the text on your screen larger or smaller" />
+                <HelpTOCNode Url="mshelp://windows/?id=ee1b6ee7-6ab5-4036-9d58-fadcf5428593" Title="ClearType: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=e68341a8-25ea-42a1-824e-f62e7ecb7928" Title="What is the ClearType Text Tuner?" />
+                <HelpTOCNode Url="mshelp://windows/?id=4827d092-4cc2-4318-880a-b824d1dfc63f" Title="What's the difference between TrueType, PostScript, and OpenType fonts?" />
+                <HelpTOCNode Url="mshelp://windows/?id=e3dce7ff-c6f1-4da0-8904-cdf8761d1dc4" Title="Using special characters (Character Map): frequently asked questions" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=d7d28600-60b9-4ba6-b1ba-b76110c1c30b" Title="Ease of Access (Accessibility)">
+                <HelpTOCNode Url="mshelp://windows/?id=c296174e-c39b-4d56-b638-57d8557b68b3" Title="What accessibility features does Windows offer?" />
+                <HelpTOCNode Url="mshelp://windows/?id=106e6689-2545-4d29-8821-f0c22259a63a" Title="Make your computer easier to use" />
+                <HelpTOCNode Url="mshelp://windows/?id=264947c8-5ca2-4c69-8a36-3d121894daa3" Title="Use the computer without a display" />
+                <HelpTOCNode Url="mshelp://windows/?id=84f056d1-0872-49d1-babc-773c3c3d4c7b" Title="Make the computer easier to see" />
+                <HelpTOCNode Url="mshelp://windows/?id=c986c70c-75d3-4043-ac22-776757abdb4c" Title="Use the computer without the mouse or keyboard" />
+                <HelpTOCNode Url="mshelp://windows/?id=684cff27-445a-4921-bc9b-60e3bcf99a0b" Title="Use text or visual alternatives to sounds" />
+                <HelpTOCNode Url="mshelp://windows/?id=ea5a58e4-a1d4-44e2-a254-0d8bf78286e1" Title="Make it easier to focus on tasks" />
+                <HelpTOCNode Url="mshelp://windows/?id=d971fc84-bd6f-4275-92fb-a57322ea35db" Title="Turn on High Contrast and change the settings" />
+                <HelpTOCNode Url="mshelp://windows/?tocid=3921a9c2-9a36-4d75-b890-c911069c95a9" Title="Ease of Access programs">
+                    <HelpTOCNode Url="mshelp://windows/?tocid=91a3b8e7-01fc-4431-a17c-7fe4888fec5c" Title="Magnifier">
+                        <HelpTOCNode Url="mshelp://windows/?id=2e188ee4-9dc6-4849-898f-2cb779a903a0" Title="Make items on the screen appear bigger" />
+                        <HelpTOCNode Url="mshelp://windows/?id=63d7fb98-9f81-4b5a-b16d-1af8c96baf2b" Title="Prevent Ease of Access programs from starting automatically" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=7ea9630e-8a59-4213-9796-546c67ca72a1" Title="Mouse and keyboard">
+                        <HelpTOCNode Url="mshelp://windows/?id=2503b91d-d780-4c80-8f08-2f48878dc566" Title="Keyboard shortcuts" />
+                        <HelpTOCNode Url="mshelp://windows/?id=89f7d3a3-bbaf-4f1a-9d39-c927f3c7d6fd" Title="Change keyboard settings" />
+                        <HelpTOCNode Url="mshelp://windows/?id=0e143ef9-10c6-44b5-89fb-a78c0f726afd" Title="Make the keyboard easier to use" />
+                        <HelpTOCNode Url="mshelp://windows/?id=960041f2-b7d5-47f9-b818-e0a9a480d29e" Title="Make the mouse easier to use" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=3d598f00-dfe2-424a-9557-09773f1df580" Title="Narrator">
+                        <HelpTOCNode Url="mshelp://windows/?id=8e208950-1fd1-42b3-863b-261352113e3e" Title="Hear text read aloud with Narrator" />
+                        <HelpTOCNode Url="mshelp://windows/?id=e405dd0b-f6ea-40ff-a911-9ac4d24a0d4f" Title="Text to speech: frequently asked questions" />
+                        <HelpTOCNode Url="mshelp://windows/?id=2ae3b781-cf9b-47da-9c11-b265b3418515" Title="I can't hear any text read aloud with Narrator" />
+                        <HelpTOCNode Url="mshelp://windows/?id=4e020016-a50b-4e6d-9635-346c5cee3066" Title="Narrator doesn't read what I expect it to" />
+                        <HelpTOCNode Url="mshelp://windows/?id=63d7fb98-9f81-4b5a-b16d-1af8c96baf2b" Title="Prevent Ease of Access programs from starting automatically" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=17606aee-1129-4778-89d4-1cc7a474711f" Title="On-Screen Keyboard">
+                        <HelpTOCNode Url="mshelp://windows/?id=82664e6e-f8a1-4c38-bd37-a097e95b2bed" Title="Type without using the keyboard" />
+                        <HelpTOCNode Url="mshelp://windows/?id=63d7fb98-9f81-4b5a-b16d-1af8c96baf2b" Title="Prevent Ease of Access programs from starting automatically" />
+                    </HelpTOCNode>
+                    <HelpTOCNode Url="mshelp://windows/?tocid=f10337fa-32e2-426a-81fc-ec296315e541" Title="Speech Recognition">
+                        <HelpTOCNode Url="mshelp://windows/?id=55c37f8e-2b44-45df-bccb-e1938230b004" Title="What can I do with Speech Recognition?" />
+                        <HelpTOCNode Url="mshelp://windows/?id=50c5dd28-9f8a-429e-9669-a42a292cea23" Title="Set up Speech Recognition" />
+                        <HelpTOCNode Url="mshelp://windows/?id=c1f5740d-2b4b-4656-b8ee-c2b95264ebf2" Title="Set up your microphone for Speech Recognition" />
+                        <HelpTOCNode Url="mshelp://windows/?id=0bab90d3-d031-482f-a88f-2e0bf3d80e8f" Title="Train your computer to recognize your speech" />
+                        <HelpTOCNode Url="mshelp://windows/?id=7eec0722-0cf0-4019-904d-1bfa655cedf0" Title="Dictate text using Speech Recognition" />
+                        <HelpTOCNode Url="mshelp://windows/?id=f968a8dd-011d-40fe-84be-93273d6580f0" Title="Common commands in Speech Recognition" />
+                        <HelpTOCNode Url="mshelp://windows/?id=3ceb9d4e-e8d2-499c-b860-6a6619580bb4" Title="Use Speech Recognition to operate windows and programs" />
+                        <HelpTOCNode Url="mshelp://windows/?id=fc0bfaaf-3e4c-493a-a7dd-04553f098dfb" Title="Use Speech Recognition to browse the Internet" />
+                        <HelpTOCNode Url="mshelp://windows/?id=766cd60e-9c44-4469-8739-c76207cd4c9c" Title="Use Speech Recognition to click anywhere on the screen" />
+                        <HelpTOCNode Url="mshelp://windows/?id=0a9cf947-6cd4-4480-be7d-a76f755f68ff" Title="Use Speech Recognition to work with folders and files" />
+                        <HelpTOCNode Url="mshelp://windows/?id=dadd3d13-4e56-448d-9ec4-8b241a156f3a" Title="Setting speech options" />
+                    </HelpTOCNode>
+                </HelpTOCNode>
+            </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Url="mshelp://windows/?tocid=68048e18-1cf9-449e-bd76-72bc4e483890" Title="Hardware, devices, and drivers">
+            <HelpTOCNode Url="mshelp://windows/?id=5cf20b48-6b78-44a0-931d-ab0997a8bcd5" Title="Working with the Computer folder" />
+            <HelpTOCNode Url="mshelp://windows/?id=a33a9d88-7883-44d2-a7c8-55d3f320c7db" Title="Turn Direct Memory Access (DMA) on or off" />
+            <HelpTOCNode Url="mshelp://windows/?id=6f9b250a-f629-45af-b120-a0235da78ec4" Title="Install a game controller" />
+            <HelpTOCNode Url="mshelp://windows/?id=b0e3d7fb-1b4a-4926-8254-65da28920926" Title="Connect a microphone, music player, or other audio device to your computer" />
+            <HelpTOCNode Url="mshelp://windows/?tocid=9192856a-3d80-41a4-9e76-15322d51de73" Title="Installing and managing hardware and devices">
+                <HelpTOCNode Url="mshelp://windows/?id=dfd48704-eb89-4e9f-b3de-552f0ca60640" Title="Installing new hardware: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=28f8ca9b-fc34-48a8-9be4-25fea88bd2e2" Title="Open the Hardware and Devices troubleshooter" />
+                <HelpTOCNode Url="mshelp://windows/?id=e67f09fa-5b4f-414f-bb6b-8180463011f1" Title="Install a USB device" />
+                <HelpTOCNode Url="mshelp://windows/?id=fba25072-efd9-496e-862e-040110ad70c2" Title="What is a USB flash drive?" />
+                <HelpTOCNode Url="mshelp://windows/?id=6f9b250a-f629-45af-b120-a0235da78ec4" Title="Install a game controller" />
+                <HelpTOCNode Url="mshelp://windows/?id=eb79f41e-939a-42b5-8b7c-37662ff2324c" Title="Install or remove a modem" />
+                <HelpTOCNode Url="mshelp://windows/?id=4097d784-4b1e-423d-b6be-737f81f7b1dc" Title="Install a printer" />
+                <HelpTOCNode Url="mshelp://windows/?id=a2d414af-9276-443c-b21c-49e29208ca0d" Title="Install or remove a sound card" />
+                <HelpTOCNode Url="mshelp://windows/?id=76f61616-6d12-46ec-bac2-49969d130c79" Title="Change color management settings" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=c2e84d71-1916-4dbd-b590-f1565f3bbb68" Title="Using Device Stage">
+                <HelpTOCNode Url="mshelp://windows/?id=f521ace3-4040-4521-8297-106dab8328e0" Title="Sync music, pictures, contacts, and calendars with a mobile device" />
+                <HelpTOCNode Url="mshelp://windows/?id=6e56db7a-f2a5-4a2d-a3eb-8e3307f27f63" Title="Stop syncing with a mobile device" />
+                <HelpTOCNode Url="mshelp://windows/?id=7f2c1360-9b1f-4199-b0d3-cffacc79c004" Title="Create and assign a ringtone for your mobile phone using Device Stage" />
+                <HelpTOCNode Url="mshelp://windows/?id=951b432d-1ea7-4aa5-94dc-2a6262b65bf0" Title="Automatically get recommended drivers and updates for your devices" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=21c672bf-dbae-4595-9734-4e4f296c75fd" Title="Bluetooth">
+                <HelpTOCNode Url="mshelp://windows/?id=67cdb8d4-c3fe-43db-a00e-53159bf8695b" Title="Add a Bluetooth enabled device" />
+                <HelpTOCNode Url="mshelp://windows/?id=e8f8c361-546d-4511-993c-c1481042f3bc" Title="Change settings for a Bluetooth enabled device" />
+                <HelpTOCNode Url="mshelp://windows/?id=22734431-1209-4f94-bf92-2bf255280c88" Title="Choose a COM port for a Bluetooth enabled device" />
+                <HelpTOCNode Url="mshelp://windows/?id=11a74104-645d-40d4-b933-bde5d15537bb" Title="Add a wireless or network device: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=5ceaf90b-09f3-42f7-83b7-2b9d789c48fc" Title="What is a trusted device?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=b174ca67-91ce-4dfd-a0a6-4aeea285581c" Title="Cameras">
+                <HelpTOCNode Url="mshelp://windows/?id=f17ebfe2-19c5-4083-82d7-2e37cf208565" Title="How do I get pictures from my camera to my computer?" />
+                <HelpTOCNode Url="mshelp://windows/?id=0f920d65-d47b-4b38-b66b-b4b724c2503a" Title="Change settings for importing pictures" />
+                <HelpTOCNode Url="mshelp://windows/?id=dfb68c60-d092-4324-b9a6-dd57ce972298" Title="Working with the Scanner and Camera Installation Wizard" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=4a5ac9e9-bf7a-488a-9748-5b1931023001" Title="Drivers">
+                <HelpTOCNode Url="mshelp://windows/?id=292c90ca-6ee9-41e2-b9bd-626377836626" Title="Update drivers: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=951b432d-1ea7-4aa5-94dc-2a6262b65bf0" Title="Automatically get recommended drivers and updates for your devices" />
+                <HelpTOCNode Url="mshelp://windows/?id=2d8d5582-c5bc-4395-945f-5c6a273c5afa" Title="Open Device Manager" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=184b05e9-ca8b-4b72-9005-c6d7e7b6f4b7" Title="Keyboards">
+                <HelpTOCNode Url="mshelp://windows/?id=d33de1a1-42db-420c-8579-5299b82ccddd" Title="Using your keyboard" />
+                <HelpTOCNode Url="mshelp://windows/?id=2503b91d-d780-4c80-8f08-2f48878dc566" Title="Keyboard shortcuts" />
+                <HelpTOCNode Url="mshelp://windows/?id=52f853fe-de4d-4924-bfc0-0373fcf86239" Title="Create keyboard shortcuts to open programs" />
+                <HelpTOCNode Url="mshelp://windows/?id=0e143ef9-10c6-44b5-89fb-a78c0f726afd" Title="Make the keyboard easier to use" />
+                <HelpTOCNode Url="mshelp://windows/?id=223e800a-c5a3-435c-aa65-0c3710cf0d4f" Title="Internet Explorer keyboard shortcuts" />
+                <HelpTOCNode Url="mshelp://windows/?id=765a7264-b593-4458-90cf-0d0713b5dfe6" Title="Change your keyboard layout" />
+                <HelpTOCNode Url="mshelp://windows/?id=89f7d3a3-bbaf-4f1a-9d39-c927f3c7d6fd" Title="Change keyboard settings" />
+                <HelpTOCNode Url="mshelp://windows/?id=82664e6e-f8a1-4c38-bd37-a097e95b2bed" Title="Type without using the keyboard" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=5dd6c900-ccd3-4e15-b93c-88ffde004af3" Title="Mice">
+                <HelpTOCNode Url="mshelp://windows/?id=e725b43f-94e4-4410-98e7-cc87ab2739aa" Title="Using your mouse" />
+                <HelpTOCNode Url="mshelp://windows/?id=efd700f8-bbc0-4f04-9f78-3bdb4bbf4701" Title="Change mouse settings" />
+                <HelpTOCNode Url="mshelp://windows/?id=960041f2-b7d5-47f9-b818-e0a9a480d29e" Title="Make the mouse easier to use" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=bf96ff20-6d63-49c4-b88d-08dfb6155b7a" Title="Modems">
+                <HelpTOCNode Url="mshelp://windows/?id=505f21ac-c581-4be6-97a3-b3caf66eda49" Title="Which modem should I use to connect to the Internet?" />
+                <HelpTOCNode Url="mshelp://windows/?id=36825396-1994-492d-8282-811bb06ce861" Title="Modems: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=eb79f41e-939a-42b5-8b7c-37662ff2324c" Title="Install or remove a modem" />
+                <HelpTOCNode Url="mshelp://windows/?id=bf96eb22-a2ce-4999-af7a-9b7bf43618e5" Title="Change modem settings" />
+                <HelpTOCNode Url="mshelp://windows/?id=2745113b-33d1-47a9-aebd-9ee6c2107503" Title="Phone and Modem: using the Dialing Rules, Modems, and Advanced settings" />
+                <HelpTOCNode Url="mshelp://windows/?id=2e2fdbec-4359-4e70-b580-608a447af9e9" Title="Phone and Modem: setting up dialing locations" />
+                <HelpTOCNode Url="mshelp://windows/?id=90312226-c6ea-4456-8c2f-0c962efbc51b" Title="Phone and Modem: setting up calling card information" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=65b7e5c5-8aca-44a0-a29b-2278a0ab9a2c" Title="Monitors">
+                <HelpTOCNode Url="mshelp://windows/?id=890f1c5b-1eff-4b1c-8acb-12d7305072de" Title="Adjust your monitor's brightness and contrast" />
+                <HelpTOCNode Url="mshelp://windows/?id=52f7448b-d524-44e4-b43d-15b5a2968537" Title="Correct monitor flicker (refresh rate)" />
+                <HelpTOCNode Url="mshelp://windows/?id=132c1dab-6da1-47cf-96af-8f00eceaf6f5" Title="Ways to improve display quality" />
+                <HelpTOCNode Url="mshelp://windows/?id=617624ee-08f3-4aff-9713-5e84a9674a26" Title="Getting the best display on your monitor" />
+                <HelpTOCNode Url="mshelp://windows/?id=c3a4da66-c335-45f5-a71f-d162d1b64ed4" Title="Make text easier to read using ClearType" />
+                <HelpTOCNode Url="mshelp://windows/?id=76f61616-6d12-46ec-bac2-49969d130c79" Title="Change color management settings" />
+                <HelpTOCNode Url="mshelp://windows/?id=27a2764a-ad05-4a52-96f4-eac32ae3c9e1" Title="Calibrate your display" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=39e55ff6-910e-4c53-9464-3e8b549f105c" Title="Printers">
+                <HelpTOCNode Url="mshelp://windows/?id=4097d784-4b1e-423d-b6be-737f81f7b1dc" Title="Install a printer" />
+                <HelpTOCNode Url="mshelp://windows/?id=304afc4c-6d8f-4de3-9063-558f23e2c644" Title="Find and install printer drivers" />
+                <HelpTOCNode Url="mshelp://windows/?id=44ae730c-f172-4884-bca8-928c6a025527" Title="Print a picture" />
+                <HelpTOCNode Url="mshelp://windows/?id=ac22aeaf-88d3-4dce-a943-c0a0500b58c0" Title="Picture printing: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=64f04e6f-b6fe-4996-bc79-f11a49cd4e26" Title="Why can't I print?" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=066c8109-f85c-4536-a4a5-69f6f68bd777" Title="Scanners and scanning">
+                <HelpTOCNode Url="mshelp://windows/?id=ee895f3c-c121-40ee-aab3-1277a5edf713" Title="Install a scanner" />
+                <HelpTOCNode Url="mshelp://windows/?id=db303def-961c-412a-9a43-f9514afa871a" Title="Scan a document or photo with Windows Fax and Scan" />
+                <HelpTOCNode Url="mshelp://windows/?id=dfb68c60-d092-4324-b9a6-dd57ce972298" Title="Working with the Scanner and Camera Installation Wizard" />
+                <HelpTOCNode Url="mshelp://windows/?id=76f61616-6d12-46ec-bac2-49969d130c79" Title="Change color management settings" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=9e3820b8-7a72-4c7e-8b7c-ddcd600b9af6" Title="Speakers and other audio output devices">
+                <HelpTOCNode Url="mshelp://windows/?id=2d520c35-f7cb-41a1-98ec-fa643102fad3" Title="Adjust the sound level on your computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=f76f244d-56db-4b68-b560-37eb4000253a" Title="Getting sound from your computer: recommended links" />
+                <HelpTOCNode Url="mshelp://windows/?id=649ad10b-80cf-4025-a061-21af669ade81" Title="Sound cards: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=a2d414af-9276-443c-b21c-49e29208ca0d" Title="Install or remove a sound card" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=fe884904-6bb5-4d8c-b343-552839775478" Title="Sync and mobile devices">
+                <HelpTOCNode Url="mshelp://windows/?id=f521ace3-4040-4521-8297-106dab8328e0" Title="Sync music, pictures, contacts, and calendars with a mobile device" />
+                <HelpTOCNode Url="mshelp://windows/?id=6e56db7a-f2a5-4a2d-a3eb-8e3307f27f63" Title="Stop syncing with a mobile device" />
+            </HelpTOCNode>
+            <HelpTOCNode Url="mshelp://windows/?tocid=65c686ac-ef10-4686-bee0-e1cb117d6ed0" Title="Televisions">
+                <HelpTOCNode Url="mshelp://windows/?id=2a2cde13-b60c-4f2f-b9da-4a433cc51ca9" Title="Connect your computer to a TV" />
+                <HelpTOCNode Url="mshelp://windows/?id=78f9a0a6-02d0-4105-996c-3cc70213d76c" Title="TV and your computer" />
+                <HelpTOCNode Url="mshelp://windows/?id=1cc2649f-385f-4844-ae10-d994e25b86ef" Title="HDTV: frequently asked questions" />
+                <HelpTOCNode Url="mshelp://windows/?id=d7ef383d-3342-4c8b-b1ce-5ca64891bc38" Title="Get help for your TV tuner" />
+                <HelpTOCNode Url="mshelp://windows/?id=2968b296-58c8-42c8-9a23-445a22d8e419" Title="How do I watch or record TV on my computer?" />
+            </HelpTOCNode>
+        </HelpTOCNode>
+    </HelpTOCNode>
+</HelpTOC>
